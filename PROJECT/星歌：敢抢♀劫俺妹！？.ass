@@ -16,19 +16,16 @@ Video File: 伊地知店长的愤怒-2「星歌：敢抢♀劫俺妹！？」.mp
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 15
 Active Line: 24
 Video Position: 3408
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Source Han Sans Medium,96,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Default (TsukuGo),方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 Style: PA,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H005A522F,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
 Style: Seika,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H0016A9D9,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
 Style: Bocchi,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00957FE8,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
 Style: Kita,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H003E42FF,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
-Style: Kita [Phonetic],方正FW筑紫黑 简 D,36,&H00FFFFFF,&H0000FFFF,&H003E42FF,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
+Style: Kita (Phonetic),方正FW筑紫黑 简 D,36,&H00FFFFFF,&H0000FFFF,&H003E42FF,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
 Style: Sawako,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H002B497B,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
 Style: Nijika,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H0016A9D9,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
 
@@ -49,7 +46,7 @@ Dialogue: 0,0:00:25.61,0:00:27.40,Bocchi,,0,0,0,,这个佐和子喜欢调戏猫�
 Dialogue: 0,0:00:28.01,0:00:29.56,Seika,,0,0,0,,猫娘控又怎么了?
 Dialogue: 0,0:00:29.56,0:00:33.00,Seika,,0,0,0,,下北泽这么大  难道她能碰巧撞见俺妹?
 Dialogue: 0,0:00:34.81,0:00:37.84,Kita,,0,0,0,,昨晚虹夏来电话  说她派送鱼肉的途中
-Dialogue: 0,0:00:34.81,0:00:37.84,Kita [Phonetic],,0,0,0,,　　　　　　　　　　　　　　　　　fish
+Dialogue: 0,0:00:34.81,0:00:37.84,Kita (Phonetic),,0,0,0,,　　　　　　　　　　　　　　　　　fish
 Dialogue: 0,0:00:37.84,0:00:40.72,Kita,,0,0,0,,碰到了佐和子  她一身黑帮老大的打扮
 Dialogue: 0,0:00:40.72,0:00:41.40,Seika,,0,0,0,,很好
 Dialogue: 0,0:00:41.84,0:00:44.46,Seika,,0,0,0,,让她见识一下我的下北泽大天使有多厉害
