@@ -16,14 +16,14 @@ Video File: 243546545_MJ Black Or White.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 56
-Active Line: 66
-Video Position: 8068
+Scroll Position: 27
+Active Line: 37
+Video Position: 5119
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Default (Small),方正FW筑紫黑 简 D,48,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Default (Small),方正FW筑紫黑 简 D,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 Style: Default (Top),方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,50,50,50,1
 
 [Events]

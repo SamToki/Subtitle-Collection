@@ -16,7 +16,7 @@ Active Line: 21
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Default (Small),方正FW筑紫黑 简 D,48,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Default (Small),方正FW筑紫黑 简 D,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -44,5 +44,3 @@ Dialogue: 0,0:00:48.90,0:00:49.90,Default,,0,0,0,,(做这个世界上最酷的�
 Dialogue: 0,0:00:49.90,0:00:52.50,Default,,0,0,0,,(做这个世界上最酷的老妈感觉不错吧!)
 Dialogue: 0,0:00:57.50,0:00:59.30,Default (Small),,0,0,0,,Happy Mother's Day!
 Dialogue: 0,0:00:57.50,0:00:59.30,Default,,0,0,0,,母亲节快乐!
-Dialogue: 0,0:01:00.00,0:01:01.00,Default (Small),,0,0,0,,Fuu!
-Dialogue: 0,0:01:00.00,0:01:01.00,Default,,0,0,0,,呼!
