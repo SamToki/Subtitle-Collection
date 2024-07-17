@@ -16,9 +16,7 @@ Video File: 江泽民怒斥香港记者完整版.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.000000
-Scroll Position: 75
-Active Line: 87
-Video Position: 5045
+Video Position: 25
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -181,4 +179,4 @@ Dialogue: 0,0:05:07.50,0:05:09.50,江泽民,,0,0,0,,你们这样子啊得不行�
 Dialogue: 0,0:05:09.50,0:05:11.30,主播与其他,,0,0,0,,好好好  大家离场...
 Dialogue: 0,0:05:11.80,0:05:13.80,江泽民,,0,0,0,,我今天算得罪了你们一下!
 Dialogue: 0,0:05:14.90,0:05:19.20,主播与其他,,0,0,0,,{\i1}江泽民对记者的罕有举动\N有学者说  这有弦外之音...
-Dialogue: 0,0:05:14.90,0:05:19.20,Default (Top),,0,0,0,,(江蛤蟆至此怒斥完毕)\N(以下内容不是重点  不做了睡大觉)
+Dialogue: 0,0:05:14.90,0:05:19.20,Default (Top),,0,0,0,,(江蛤蟆至此怒斥完毕\N以下内容不是重点, 不做了睡大觉)
