@@ -15,23 +15,23 @@ Audio File: 7843496_Win95 广告 信息高速公路.mp4
 Video File: 7843496_Win95 广告 信息高速公路.mp4
 Video AR Mode: 4
 Video AR Value: 1.250000
-Active Line: 7
-Video Position: 600
+Active Line: 1
+Video Position: 233
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Default (Small),方正FW筑紫黑 简 D,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Latin (Small),Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.20,0:00:02.60,Default,,0,0,0,,(开始™)
-Dialogue: 0,0:00:09.30,0:00:13.60,Default (Small),,0,0,0,,{\i1}You've heard all about many fabled ??? information superhighway.
+Dialogue: 0,0:00:09.30,0:00:13.60,Latin (Small),,0,0,0,,{\i1}You've heard all about many fabled ??? information superhighway.
 Dialogue: 0,0:00:09.30,0:00:13.60,Default,,0,0,0,,{\i1}你也许听过有关「信息高速公路」的各种传闻
-Dialogue: 0,0:00:15.50,0:00:18.50,Default (Small),,0,0,0,,{\i1}With Windows 95, it's easy to get on it.
+Dialogue: 0,0:00:15.50,0:00:18.50,Latin (Small),,0,0,0,,{\i1}With Windows 95, it's easy to get on it.
 Dialogue: 0,0:00:15.50,0:00:18.50,Default,,0,0,0,,{\i1}有了 Windows 95  我们都能开上这条高速公路
-Dialogue: 0,0:00:21.50,0:00:22.80,Default (Small),,0,0,0,,{\i1}Start connecting.
+Dialogue: 0,0:00:21.50,0:00:22.80,Latin (Small),,0,0,0,,{\i1}Start connecting.
 Dialogue: 0,0:00:21.50,0:00:22.80,Default,,0,0,0,,{\i1}畅游互联网
-Dialogue: 0,0:00:24.00,0:00:25.80,Default (Small),,0,0,0,,{\i1}Start Windows 95.
+Dialogue: 0,0:00:24.00,0:00:25.80,Latin (Small),,0,0,0,,{\i1}Start Windows 95.
 Dialogue: 0,0:00:24.00,0:00:25.80,Default,,0,0,0,,{\i1}畅游 Windows 95
 Dialogue: 0,0:00:25.80,0:00:30.30,Default,,0,0,0,,(微软®)\N(今天你想探索哪里?™)

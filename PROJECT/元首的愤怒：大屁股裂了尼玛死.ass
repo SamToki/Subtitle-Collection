@@ -16,73 +16,71 @@ Video File: 元首的愤怒：大屁股裂了尼玛死.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 15
-Active Line: 21
-Video Position: 1866
+Video Position: 5
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 Style: Default (Top),方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,50,50,50,1
-Style: European (Small),Arial,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Latin (Small),Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 Style: Soramimi (Small),霞鹜文楷,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.20,0:00:01.80,European (Small),,0,0,0,,Kapitulieren? Niemals!
+Dialogue: 0,0:00:00.20,0:00:01.80,Latin (Small),,0,0,0,,Kapitulieren? Niemals!
 Dialogue: 0,0:00:00.20,0:00:01.80,Default,,0,0,0,,决不投降!
 Dialogue: 0,0:00:00.20,0:00:01.80,Soramimi (Small),,0,0,0,,大屁股裂了  尼玛死!
-Dialogue: 0,0:00:01.80,0:00:03.20,European (Small),,0,0,0,,Das ist empörend!
+Dialogue: 0,0:00:01.80,0:00:03.20,Latin (Small),,0,0,0,,Das ist empörend!
 Dialogue: 0,0:00:01.80,0:00:03.20,Default,,0,0,0,,这太可耻了
 Dialogue: 0,0:00:01.80,0:00:03.20,Soramimi (Small),,0,0,0,,她是你敢爆的!
-Dialogue: 0,0:00:03.50,0:00:06.20,European (Small),,0,0,0,,Ich habe Berlin von Jahren gegen die Roten erobert,
+Dialogue: 0,0:00:03.50,0:00:06.20,Latin (Small),,0,0,0,,Ich habe Berlin von Jahren gegen die Roten erobert,
 Dialogue: 0,0:00:03.50,0:00:06.20,Default,,0,0,0,,我这几年来死守柏林抵抗苏军
 Dialogue: 0,0:00:03.50,0:00:04.80,Soramimi (Small),,0,0,0,,一下午大林放羊
 Dialogue: 0,0:00:04.80,0:00:06.20,Soramimi (Small),,0,0,0,,给了你龌龊的欧巴特
-Dialogue: 0,0:00:06.20,0:00:10.40,European (Small),,0,0,0,,und werde die Stadt bis zum letzten Atemzug gegen die Roten verteidigen!
+Dialogue: 0,0:00:06.20,0:00:10.40,Latin (Small),,0,0,0,,und werde die Stadt bis zum letzten Atemzug gegen die Roten verteidigen!
 Dialogue: 0,0:00:06.20,0:00:10.40,Default,,0,0,0,,我必须要在这奋战到最后一刻
 Dialogue: 0,0:00:06.20,0:00:07.20,Soramimi (Small),,0,0,0,,我来给你疏♂导
 Dialogue: 0,0:00:07.20,0:00:08.80,Soramimi (Small),,0,0,0,,逼苏联生那头猪!
 Dialogue: 0,0:00:08.80,0:00:10.40,Soramimi (Small),,0,0,0,,给了你后面好大一根
-Dialogue: 0,0:00:11.40,0:00:12.40,European (Small),,0,0,0,,Die wenigen Stunden,
-Dialogue: 0,0:00:12.40,0:00:14.70,European (Small),,0,0,0,,die ich noch als deutscher Reichskanzler zu leben habe
+Dialogue: 0,0:00:11.40,0:00:12.40,Latin (Small),,0,0,0,,Die wenigen Stunden,
+Dialogue: 0,0:00:12.40,0:00:14.70,Latin (Small),,0,0,0,,die ich noch als deutscher Reichskanzler zu leben habe
 Dialogue: 0,0:00:11.40,0:00:14.70,Default,,0,0,0,,只要我还是德国总理
 Dialogue: 0,0:00:11.40,0:00:12.40,Soramimi (Small),,0,0,0,,你妹妹是猪呢
 Dialogue: 0,0:00:12.40,0:00:14.70,Soramimi (Small),,0,0,0,,你小孩是傻小孩... 死本拉登
-Dialogue: 0,0:00:14.70,0:00:16.20,European (Small),,0,0,0,,werde ich nicht dazu benutzen
-Dialogue: 0,0:00:16.20,0:00:19.30,European (Small),,0,0,0,,meine Unterschrift unter eine Kapitulationsurkunde zu setzen.
+Dialogue: 0,0:00:14.70,0:00:16.20,Latin (Small),,0,0,0,,werde ich nicht dazu benutzen
+Dialogue: 0,0:00:16.20,0:00:19.30,Latin (Small),,0,0,0,,meine Unterschrift unter eine Kapitulationsurkunde zu setzen.
 Dialogue: 0,0:00:14.70,0:00:19.30,Default,,0,0,0,,你们就不要指望我在这该死的投降书上签字
 Dialogue: 0,0:00:14.70,0:00:16.20,Soramimi (Small),,0,0,0,,安妮是她  是就给我撸上
 Dialogue: 0,0:00:16.20,0:00:19.30,Soramimi (Small),,0,0,0,,没有打水  那大屁股拉臭臭可能就在这
-Dialogue: 0,0:00:19.30,0:00:20.70,European (Small),,0,0,0,,Wir müssen die Zivilvölkerung schützen.
+Dialogue: 0,0:00:19.30,0:00:20.70,Latin (Small),,0,0,0,,Wir müssen die Zivilvölkerung schützen.
 Dialogue: 0,0:00:19.30,0:00:20.70,Default,,0,0,0,,我们必须保护平民
 Dialogue: 0,0:00:19.30,0:00:20.70,Soramimi (Small),,0,0,0,,我们吃了那逼的...
-Dialogue: 0,0:00:20.70,0:00:22.30,European (Small),,0,0,0,,Der Befehl des Führers ist unumstößlich!
+Dialogue: 0,0:00:20.70,0:00:22.30,Latin (Small),,0,0,0,,Der Befehl des Führers ist unumstößlich!
 Dialogue: 0,0:00:20.70,0:00:22.30,Default,,0,0,0,,元首的命令不得违抗
 Dialogue: 0,0:00:20.70,0:00:22.30,Soramimi (Small),,0,0,0,,我们吃了  英机要拉屎  哦  哦
-Dialogue: 0,0:00:22.30,0:00:24.30,European (Small),,0,0,0,,Egal, was passiert! Wir werden durchhalten bis zum Ende!
+Dialogue: 0,0:00:22.30,0:00:24.30,Latin (Small),,0,0,0,,Egal, was passiert! Wir werden durchhalten bis zum Ende!
 Dialogue: 0,0:00:22.30,0:00:24.30,Default,,0,0,0,,我要抗争到底
-Dialogue: 0,0:00:24.30,0:00:26.80,European (Small),,0,0,0,,Wir müssen Verhandlungen aufnehmen...
+Dialogue: 0,0:00:24.30,0:00:26.80,Latin (Small),,0,0,0,,Wir müssen Verhandlungen aufnehmen...
 Dialogue: 0,0:00:24.30,0:00:26.80,Default,,0,0,0,,应该先跟他们谈判...
-Dialogue: 0,0:00:27.50,0:00:29.00,European (Small),,0,0,0,,Ich wiederhole, meine Herren.
+Dialogue: 0,0:00:27.50,0:00:29.00,Latin (Small),,0,0,0,,Ich wiederhole, meine Herren.
 Dialogue: 0,0:00:27.50,0:00:29.00,Default,,0,0,0,,我再说一遍
 Dialogue: 0,0:00:27.50,0:00:29.00,Soramimi (Small),,0,0,0,,你去买个麦当劳
-Dialogue: 0,0:00:29.00,0:00:31.10,European (Small),,0,0,0,,Eine Kapitulation unterschreibe ich niemals.
+Dialogue: 0,0:00:29.00,0:00:31.10,Latin (Small),,0,0,0,,Eine Kapitulation unterschreibe ich niemals.
 Dialogue: 0,0:00:29.00,0:00:31.10,Default,,0,0,0,,我永远不会投降
 Dialogue: 0,0:00:29.00,0:00:31.10,Soramimi (Small),,0,0,0,,安妮大屁股... 你们撸得出来  尼玛死
-Dialogue: 0,0:00:31.10,0:00:33.40,European (Small),,0,0,0,,Setzen Sie sofort ein schreiben an Marschall Schukow auf.
+Dialogue: 0,0:00:31.10,0:00:33.40,Latin (Small),,0,0,0,,Setzen Sie sofort ein schreiben an Marschall Schukow auf.
 Dialogue: 0,0:00:31.10,0:00:33.40,Default,,0,0,0,,发一份急电给朱可夫元帅
 Dialogue: 0,0:00:31.10,0:00:33.40,Soramimi (Small),,0,0,0,,...马超吃豆腐  要♀腐
 Dialogue: 0,0:00:31.10,0:00:34.40,Default (Top),,0,0,0,,(格奥尔基·朱可夫, 苏联元帅, 1945年率军攻克柏林)
-Dialogue: 0,0:00:33.40,0:00:34.40,European (Small),,0,0,0,,An Marschall Schukow?
+Dialogue: 0,0:00:33.40,0:00:34.40,Latin (Small),,0,0,0,,An Marschall Schukow?
 Dialogue: 0,0:00:33.40,0:00:34.40,Default,,0,0,0,,朱可夫元帅?
 Dialogue: 0,0:00:33.40,0:00:34.40,Soramimi (Small),,0,0,0,,那马超吃豆腐?
-Dialogue: 0,0:00:34.40,0:00:35.30,European (Small),,0,0,0,,Was geht hier vor?!
+Dialogue: 0,0:00:34.40,0:00:35.30,Latin (Small),,0,0,0,,Was geht hier vor?!
 Dialogue: 0,0:00:34.40,0:00:35.30,Default,,0,0,0,,你想干什么?!
 Dialogue: 0,0:00:34.40,0:00:35.30,Soramimi (Small),,0,0,0,,Let's gay it fuck!
-Dialogue: 0,0:00:35.30,0:00:37.80,European (Small),,0,0,0,,Das ist doch alles Wahnsinn, wir müssen die Stadt den Russen übergeben.
+Dialogue: 0,0:00:35.30,0:00:37.80,Latin (Small),,0,0,0,,Das ist doch alles Wahnsinn, wir müssen die Stadt den Russen übergeben.
 Dialogue: 0,0:00:35.30,0:00:37.80,Default,,0,0,0,,抵抗什么的都是幻想  我们只能把柏林交给苏联
-Dialogue: 0,0:00:37.80,0:00:39.10,European (Small),,0,0,0,,Dann muss ich Sie erschießen.
+Dialogue: 0,0:00:37.80,0:00:39.10,Latin (Small),,0,0,0,,Dann muss ich Sie erschießen.
 Dialogue: 0,0:00:37.80,0:00:39.10,Default,,0,0,0,,无论如何元首都不准投降
-Dialogue: 0,0:00:39.10,0:00:41.60,European (Small),,0,0,0,,Der Führerbefehl verbietet jede Kapitulation!
+Dialogue: 0,0:00:39.10,0:00:41.60,Latin (Small),,0,0,0,,Der Führerbefehl verbietet jede Kapitulation!
 Dialogue: 0,0:00:39.10,0:00:41.60,Default,,0,0,0,,你想投降的话我先一枪崩了你

@@ -16,35 +16,35 @@ Video File: 243546545_MJ Black Or White.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 27
-Active Line: 37
-Video Position: 5119
+Scroll Position: 18
+Active Line: 24
+Video Position: 2812
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Default (Small),方正FW筑紫黑 简 D,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 Style: Default (Top),方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,50,50,50,1
+Style: Latin (Small),Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.00,0:00:04.00,Default,,0,0,0,,(迈克尔杰克逊《黑与白》完整版)
 Dialogue: 0,0:00:38.90,0:00:40.90,Default,,0,0,0,,(巨人) (海盗) (...)
 Dialogue: 0,0:00:40.90,0:00:43.00,Default,,0,0,0,,(巴特侠) ↗
-Dialogue: 0,0:00:43.80,0:00:45.60,Default (Small),,0,0,0,,Turn that noise off!
+Dialogue: 0,0:00:43.80,0:00:45.60,Latin (Small),,0,0,0,,Turn that noise off!
 Dialogue: 0,0:00:43.80,0:00:45.60,Default,,0,0,0,,把那噪音关掉!
-Dialogue: 0,0:00:54.80,0:00:57.20,Default (Small),,0,0,0,,I thought I told you to turn that thing off!
+Dialogue: 0,0:00:54.80,0:00:57.20,Latin (Small),,0,0,0,,I thought I told you to turn that thing off!
 Dialogue: 0,0:00:54.80,0:00:57.20,Default,,0,0,0,,我叫你把那音乐关掉!
-Dialogue: 0,0:00:57.20,0:00:59.20,Default (Small),,0,0,0,,It's too late, and it's too loud.
+Dialogue: 0,0:00:57.20,0:00:59.20,Latin (Small),,0,0,0,,It's too late, and it's too loud.
 Dialogue: 0,0:00:57.20,0:00:59.20,Default,,0,0,0,,大晚上的  还那么大声
-Dialogue: 0,0:00:59.20,0:01:01.20,Default (Small),,0,0,0,,But dad, this is the best part.
+Dialogue: 0,0:00:59.20,0:01:01.20,Latin (Small),,0,0,0,,But dad, this is the best part.
 Dialogue: 0,0:00:59.20,0:01:01.20,Default,,0,0,0,,但是老爸  我刚听到最精彩的地方
-Dialogue: 0,0:01:02.00,0:01:04.60,Default (Small),,0,0,0,,You are wasting your time with this garbage.
+Dialogue: 0,0:01:02.00,0:01:04.60,Latin (Small),,0,0,0,,You are wasting your time with this garbage.
 Dialogue: 0,0:01:02.00,0:01:04.60,Default,,0,0,0,,不要再给我把时间浪费在这垃圾音乐上
-Dialogue: 0,0:01:04.60,0:01:06.20,Default (Small),,0,0,0,,Now, go to bed!
+Dialogue: 0,0:01:04.60,0:01:06.20,Latin (Small),,0,0,0,,Now, go to bed!
 Dialogue: 0,0:01:04.60,0:01:06.20,Default,,0,0,0,,马上滚去睡觉!
 Dialogue: 0,0:01:07.20,0:01:09.20,Default,,0,0,0,,(迈克尔杰克逊海报)
-Dialogue: 0,0:01:11.40,0:01:13.00,Default (Small),,0,0,0,,Okay...
+Dialogue: 0,0:01:11.40,0:01:13.00,Latin (Small),,0,0,0,,Okay...
 Dialogue: 0,0:01:11.40,0:01:13.00,Default,,0,0,0,,算你狠...
 Dialogue: 0,0:01:17.70,0:01:18.90,Default,,0,0,0,,(报纸头条: 我被 UFO 绑架了)
 Dialogue: 0,0:01:21.90,0:01:22.50,Default,,0,0,0,,(音频输入)
@@ -52,133 +52,133 @@ Dialogue: 0,0:01:23.30,0:01:24.00,Default,,0,0,0,,(开)
 Dialogue: 0,0:01:24.00,0:01:24.90,Default,,0,0,0,,(大音量)
 Dialogue: 0,0:01:24.90,0:01:26.50,Default,,0,0,0,,(更大音量)
 Dialogue: 0,0:01:26.50,0:01:27.40,Default,,0,0,0,,(你疯了么!?!)
-Dialogue: 0,0:01:33.80,0:01:34.90,Default (Small),,0,0,0,,Eat this!
+Dialogue: 0,0:01:33.80,0:01:34.90,Latin (Small),,0,0,0,,Eat this!
 Dialogue: 0,0:01:33.80,0:01:34.90,Default,,0,0,0,,尝尝这个!
-Dialogue: 0,0:01:44.20,0:01:48.20,Default (Small),,0,0,0,,I'm afraid your father is going to be very upset when he gets back.
+Dialogue: 0,0:01:44.20,0:01:48.20,Latin (Small),,0,0,0,,I'm afraid your father is going to be very upset when he gets back.
 Dialogue: 0,0:01:44.20,0:01:48.20,Default,,0,0,0,,恐怕你爸回来的时候会被你气死
 Dialogue: 0,0:01:48.40,0:01:50.80,Default,,0,0,0,,(正片开始)
-Dialogue: 0,0:02:40.80,0:02:44.60,Default (Small),,0,0,0,,I took my baby on a Saturday bang.
+Dialogue: 0,0:02:40.80,0:02:44.60,Latin (Small),,0,0,0,,I took my baby on a Saturday bang.
 Dialogue: 0,0:02:40.80,0:02:44.60,Default,,0,0,0,,我带着宝贝在周末开车兜风
-Dialogue: 0,0:02:45.00,0:02:46.40,Default (Small),,0,0,0,,Boy, is that girl with you?
+Dialogue: 0,0:02:45.00,0:02:46.40,Latin (Small),,0,0,0,,Boy, is that girl with you?
 Dialogue: 0,0:02:45.00,0:02:46.40,Default,,0,0,0,,人问「小伙子, 这是你的姑娘吗?」
-Dialogue: 0,0:02:46.40,0:02:48.40,Default (Small),,0,0,0,,Yes, we're one and the same.
+Dialogue: 0,0:02:46.40,0:02:48.40,Latin (Small),,0,0,0,,Yes, we're one and the same.
 Dialogue: 0,0:02:46.40,0:02:48.40,Default,,0,0,0,,我答「是的, 我们心心相印, 合二为一」
-Dialogue: 0,0:02:48.60,0:02:50.80,Default (Small),,0,0,0,,Now I believe in miracles,
+Dialogue: 0,0:02:48.60,0:02:50.80,Latin (Small),,0,0,0,,Now I believe in miracles,
 Dialogue: 0,0:02:48.60,0:02:50.80,Default,,0,0,0,,现在我相信奇迹
-Dialogue: 0,0:02:50.80,0:02:53.80,Default (Small),,0,0,0,,and a miracle has happened tonight!
+Dialogue: 0,0:02:50.80,0:02:53.80,Latin (Small),,0,0,0,,and a miracle has happened tonight!
 Dialogue: 0,0:02:50.80,0:02:53.80,Default,,0,0,0,,而今夜奇迹已经显现
-Dialogue: 0,0:02:56.00,0:02:58.80,Default (Small),,0,0,0,,But, if, you're thinkin' about my baby,
+Dialogue: 0,0:02:56.00,0:02:58.80,Latin (Small),,0,0,0,,But, if, you're thinkin' about my baby,
 Dialogue: 0,0:02:56.00,0:02:58.80,Default,,0,0,0,,但如果你在意我的姑娘
-Dialogue: 0,0:02:58.80,0:03:02.00,Default (Small),,0,0,0,,it don't matter if you're black or white.
+Dialogue: 0,0:02:58.80,0:03:02.00,Latin (Small),,0,0,0,,it don't matter if you're black or white.
 Dialogue: 0,0:02:58.80,0:03:02.00,Default,,0,0,0,,你是黑是白  我都不在意
-Dialogue: 0,0:03:26.80,0:03:30.20,Default (Small),,0,0,0,,They print my message in the {\i1}Saturday Sun{\i0}.
+Dialogue: 0,0:03:26.80,0:03:30.20,Latin (Small),,0,0,0,,They print my message in the {\i1}Saturday Sun{\i0}.
 Dialogue: 0,0:03:26.80,0:03:30.20,Default,,0,0,0,,他们把我的消息刊登到《周末太阳报》上
-Dialogue: 0,0:03:31.00,0:03:34.20,Default (Small),,0,0,0,,I had to tell them I ain't second to none.
+Dialogue: 0,0:03:31.00,0:03:34.20,Latin (Small),,0,0,0,,I had to tell them I ain't second to none.
 Dialogue: 0,0:03:31.00,0:03:34.20,Default,,0,0,0,,我得告诉他们  我不比谁差
-Dialogue: 0,0:03:34.60,0:03:36.60,Default (Small),,0,0,0,,And I told about equality.
+Dialogue: 0,0:03:34.60,0:03:36.60,Latin (Small),,0,0,0,,And I told about equality.
 Dialogue: 0,0:03:34.60,0:03:36.60,Default,,0,0,0,,我坚信人人平等
-Dialogue: 0,0:03:36.60,0:03:39.60,Default (Small),,0,0,0,,And it's true either you're wrong or you're right!
+Dialogue: 0,0:03:36.60,0:03:39.60,Latin (Small),,0,0,0,,And it's true either you're wrong or you're right!
 Dialogue: 0,0:03:36.60,0:03:39.60,Default,,0,0,0,,无论你是对是错  都改变不了这个真理
-Dialogue: 0,0:03:42.00,0:03:44.80,Default (Small),,0,0,0,,But, if, you're thinkin' about my baby,
+Dialogue: 0,0:03:42.00,0:03:44.80,Latin (Small),,0,0,0,,But, if, you're thinkin' about my baby,
 Dialogue: 0,0:03:42.00,0:03:44.80,Default,,0,0,0,,但如果你在意我的姑娘
-Dialogue: 0,0:03:44.80,0:03:47.80,Default (Small),,0,0,0,,it don't matter if you're black or white.
+Dialogue: 0,0:03:44.80,0:03:47.80,Latin (Small),,0,0,0,,it don't matter if you're black or white.
 Dialogue: 0,0:03:44.80,0:03:47.80,Default,,0,0,0,,你是黑是白  我都不在意
-Dialogue: 0,0:03:54.60,0:03:55.60,Default (Small),,0,0,0,,Go! Da bet!
-Dialogue: 0,0:04:20.90,0:04:22.90,Default (Small),,0,0,0,,I'm tired of this devil!
+Dialogue: 0,0:03:54.60,0:03:55.60,Latin (Small),,0,0,0,,Go! Da bet!
+Dialogue: 0,0:04:20.90,0:04:22.90,Latin (Small),,0,0,0,,I'm tired of this devil!
 Dialogue: 0,0:04:20.90,0:04:22.90,Default,,0,0,0,,我受够这种谬误!
-Dialogue: 0,0:04:22.90,0:04:24.90,Default (Small),,0,0,0,,I'm tired of this stuff!
+Dialogue: 0,0:04:22.90,0:04:24.90,Latin (Small),,0,0,0,,I'm tired of this stuff!
 Dialogue: 0,0:04:22.90,0:04:24.90,Default,,0,0,0,,我受够这些套路!
-Dialogue: 0,0:04:24.90,0:04:26.70,Default (Small),,0,0,0,,I'm tired of this business!
+Dialogue: 0,0:04:24.90,0:04:26.70,Latin (Small),,0,0,0,,I'm tired of this business!
 Dialogue: 0,0:04:24.90,0:04:26.70,Default,,0,0,0,,我受够这堆破事!
-Dialogue: 0,0:04:26.70,0:04:28.70,Default (Small),,0,0,0,,Sew when the going gets rough...
+Dialogue: 0,0:04:26.70,0:04:28.70,Latin (Small),,0,0,0,,Sew when the going gets rough...
 Dialogue: 0,0:04:26.70,0:04:28.70,Default,,0,0,0,,直到亡羊才去补牢
-Dialogue: 0,0:04:29.20,0:04:31.00,Default (Small),,0,0,0,,I ain't scared of your brother!
+Dialogue: 0,0:04:29.20,0:04:31.00,Latin (Small),,0,0,0,,I ain't scared of your brother!
 Dialogue: 0,0:04:29.20,0:04:31.00,Default,,0,0,0,,我不怕你的哥们!
 Dialogue: 0,0:04:29.20,0:04:33.20,Default (Top),,0,0,0,,(隐喻三K党, 美国种族主义的代表性组织)
-Dialogue: 0,0:04:31.00,0:04:33.20,Default (Small),,0,0,0,,I ain't scared of no sheets!
+Dialogue: 0,0:04:31.00,0:04:33.20,Latin (Small),,0,0,0,,I ain't scared of no sheets!
 Dialogue: 0,0:04:31.00,0:04:33.20,Default,,0,0,0,,我不怕那白床单!
-Dialogue: 0,0:04:33.20,0:04:35.00,Default (Small),,0,0,0,,I ain't scared of nobody!
+Dialogue: 0,0:04:33.20,0:04:35.00,Latin (Small),,0,0,0,,I ain't scared of nobody!
 Dialogue: 0,0:04:33.20,0:04:35.00,Default,,0,0,0,,我天不怕地不怕!
-Dialogue: 0,0:04:35.00,0:04:36.80,Default (Small),,0,0,0,,Girl! When the goin' gets mean...
+Dialogue: 0,0:04:35.00,0:04:36.80,Latin (Small),,0,0,0,,Girl! When the goin' gets mean...
 Dialogue: 0,0:04:35.00,0:04:36.80,Default,,0,0,0,,宝贝! 只要有意义...
-Dialogue: 0,0:04:39.60,0:04:40.40,Default (Small),,0,0,0,,Protection.
+Dialogue: 0,0:04:39.60,0:04:40.40,Latin (Small),,0,0,0,,Protection.
 Dialogue: 0,0:04:39.60,0:04:42.00,Default,,0,0,0,,帮派  社团  民族各自为政
-Dialogue: 0,0:04:40.40,0:04:42.00,Default (Small),,0,0,0,,For gangs, clubs and nations.
-Dialogue: 0,0:04:42.00,0:04:43.60,Default (Small),,0,0,0,,Causing grief in human relations.
+Dialogue: 0,0:04:40.40,0:04:42.00,Latin (Small),,0,0,0,,For gangs, clubs and nations.
+Dialogue: 0,0:04:42.00,0:04:43.60,Latin (Small),,0,0,0,,Causing grief in human relations.
 Dialogue: 0,0:04:42.00,0:04:43.60,Default,,0,0,0,,使人际关系不断受创
-Dialogue: 0,0:04:43.60,0:04:46.00,Default (Small),,0,0,0,,It's a turf war, on a global scale.
+Dialogue: 0,0:04:43.60,0:04:46.00,Latin (Small),,0,0,0,,It's a turf war, on a global scale.
 Dialogue: 0,0:04:43.60,0:04:46.00,Default,,0,0,0,,这是世界级的地域大战
-Dialogue: 0,0:04:46.00,0:04:47.60,Default (Small),,0,0,0,,I'd rather hear both sides of the tale.
+Dialogue: 0,0:04:46.00,0:04:47.60,Latin (Small),,0,0,0,,I'd rather hear both sides of the tale.
 Dialogue: 0,0:04:46.00,0:04:47.60,Default,,0,0,0,,我宁可兼听双方
-Dialogue: 0,0:04:47.60,0:04:49.20,Default (Small),,0,0,0,,See, it's not about races.
+Dialogue: 0,0:04:47.60,0:04:49.20,Latin (Small),,0,0,0,,See, it's not about races.
 Dialogue: 0,0:04:47.60,0:04:49.20,Default,,0,0,0,,不关乎种族
-Dialogue: 0,0:04:49.20,0:04:50.80,Default (Small),,0,0,0,,Just places, faces.
+Dialogue: 0,0:04:49.20,0:04:50.80,Latin (Small),,0,0,0,,Just places, faces.
 Dialogue: 0,0:04:49.20,0:04:50.80,Default,,0,0,0,,只在乎面孔
-Dialogue: 0,0:04:50.80,0:04:52.80,Default (Small),,0,0,0,,Where your blood comes from... this places.
+Dialogue: 0,0:04:50.80,0:04:52.80,Latin (Small),,0,0,0,,Where your blood comes from... this places.
 Dialogue: 0,0:04:50.80,0:04:52.80,Default,,0,0,0,,与你的血缘
-Dialogue: 0,0:04:52.80,0:04:54.00,Default (Small),,0,0,0,,I've seen the bright get duller.
+Dialogue: 0,0:04:52.80,0:04:54.00,Latin (Small),,0,0,0,,I've seen the bright get duller.
 Dialogue: 0,0:04:52.80,0:04:54.00,Default,,0,0,0,,我看到光明正在暗淡
-Dialogue: 0,0:04:54.00,0:04:56.00,Default (Small),,0,0,0,,I'm not gonna spend my life being a color.
+Dialogue: 0,0:04:54.00,0:04:56.00,Latin (Small),,0,0,0,,I'm not gonna spend my life being a color.
 Dialogue: 0,0:04:54.00,0:04:56.00,Default,,0,0,0,,我这辈子不是为了某种肤色而活
-Dialogue: 0,0:04:56.00,0:04:58.00,Default (Small),,0,0,0,,Don't tell me you agree with me,
+Dialogue: 0,0:04:56.00,0:04:58.00,Latin (Small),,0,0,0,,Don't tell me you agree with me,
 Dialogue: 0,0:04:56.00,0:04:58.00,Default,,0,0,0,,当你还在我面前恶意中伤
-Dialogue: 0,0:04:58.00,0:05:01.00,Default (Small),,0,0,0,,when I saw you kicking dirt in my eye!
+Dialogue: 0,0:04:58.00,0:05:01.00,Latin (Small),,0,0,0,,when I saw you kicking dirt in my eye!
 Dialogue: 0,0:04:58.00,0:05:01.00,Default,,0,0,0,,就不要说你同意我的言论
-Dialogue: 0,0:05:03.20,0:05:06.20,Default (Small),,0,0,0,,But, if, you're thinkin' about my baby,
+Dialogue: 0,0:05:03.20,0:05:06.20,Latin (Small),,0,0,0,,But, if, you're thinkin' about my baby,
 Dialogue: 0,0:05:03.20,0:05:06.20,Default,,0,0,0,,但如果你在意我的姑娘
-Dialogue: 0,0:05:06.20,0:05:09.40,Default (Small),,0,0,0,,it don't matter if you're black or white.
+Dialogue: 0,0:05:06.20,0:05:09.40,Latin (Small),,0,0,0,,it don't matter if you're black or white.
 Dialogue: 0,0:05:06.20,0:05:09.40,Default,,0,0,0,,你是黑是白  我都不在意
-Dialogue: 0,0:05:11.60,0:05:14.60,Default (Small),,0,0,0,,I, said, if you're thinkin' of being my baby,
+Dialogue: 0,0:05:11.60,0:05:14.60,Latin (Small),,0,0,0,,I, said, if you're thinkin' of being my baby,
 Dialogue: 0,0:05:11.60,0:05:14.60,Default,,0,0,0,,我是说  如果你想成为我的宝贝
-Dialogue: 0,0:05:14.60,0:05:17.80,Default (Small),,0,0,0,,it don't matter if you're black or white.
+Dialogue: 0,0:05:14.60,0:05:17.80,Latin (Small),,0,0,0,,it don't matter if you're black or white.
 Dialogue: 0,0:05:14.60,0:05:17.80,Default,,0,0,0,,你是黑是白  我都不在意
-Dialogue: 0,0:05:20.00,0:05:22.80,Default (Small),,0,0,0,,I, said, if you're thinkin' of being my brother,
+Dialogue: 0,0:05:20.00,0:05:22.80,Latin (Small),,0,0,0,,I, said, if you're thinkin' of being my brother,
 Dialogue: 0,0:05:20.00,0:05:22.80,Default,,0,0,0,,我是说  如果你想成为我的兄弟
-Dialogue: 0,0:05:22.80,0:05:26.20,Default (Small),,0,0,0,,it don't matter if you're black or white.
+Dialogue: 0,0:05:22.80,0:05:26.20,Latin (Small),,0,0,0,,it don't matter if you're black or white.
 Dialogue: 0,0:05:22.80,0:05:26.20,Default,,0,0,0,,你是黑是白  我都不在意
-Dialogue: 0,0:05:27.40,0:05:28.40,Default (Small),,0,0,0,,Alright.
+Dialogue: 0,0:05:27.40,0:05:28.40,Latin (Small),,0,0,0,,Alright.
 Dialogue: 0,0:05:27.40,0:05:28.40,Default,,0,0,0,,好了
-Dialogue: 0,0:05:29.40,0:05:31.40,Default (Small),,0,0,0,,It's black, it's white.
+Dialogue: 0,0:05:29.40,0:05:31.40,Latin (Small),,0,0,0,,It's black, it's white.
 Dialogue: 0,0:05:29.40,0:05:31.40,Default,,0,0,0,,是黑  是白
-Dialogue: 0,0:05:31.40,0:05:33.60,Default (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
+Dialogue: 0,0:05:31.40,0:05:33.60,Latin (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
 Dialogue: 0,0:05:31.40,0:05:33.60,Default,,0,0,0,,只要你要强  你便是强者
-Dialogue: 0,0:05:33.60,0:05:35.40,Default (Small),,0,0,0,,It's black, it's white.
+Dialogue: 0,0:05:33.60,0:05:35.40,Latin (Small),,0,0,0,,It's black, it's white.
 Dialogue: 0,0:05:33.60,0:05:35.40,Default,,0,0,0,,是黑  是白
-Dialogue: 0,0:05:37.80,0:05:39.80,Default (Small),,0,0,0,,It's black, it's white.
+Dialogue: 0,0:05:37.80,0:05:39.80,Latin (Small),,0,0,0,,It's black, it's white.
 Dialogue: 0,0:05:37.80,0:05:39.80,Default,,0,0,0,,是黑  是白
-Dialogue: 0,0:05:39.80,0:05:42.00,Default (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
+Dialogue: 0,0:05:39.80,0:05:42.00,Latin (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
 Dialogue: 0,0:05:39.80,0:05:42.00,Default,,0,0,0,,只要你要强  你便是强者
-Dialogue: 0,0:05:42.00,0:05:43.00,Default (Small),,0,0,0,,It's black...
+Dialogue: 0,0:05:42.00,0:05:43.00,Latin (Small),,0,0,0,,It's black...
 Dialogue: 0,0:05:42.00,0:05:43.00,Default,,0,0,0,,是黑...
-Dialogue: 0,0:05:44.00,0:05:45.00,Default (Small),,0,0,0,,Alright!
+Dialogue: 0,0:05:44.00,0:05:45.00,Latin (Small),,0,0,0,,Alright!
 Dialogue: 0,0:05:44.00,0:05:45.00,Default,,0,0,0,,就是这样!
-Dialogue: 0,0:05:46.00,0:05:48.00,Default (Small),,0,0,0,,It's black, it's white.
+Dialogue: 0,0:05:46.00,0:05:48.00,Latin (Small),,0,0,0,,It's black, it's white.
 Dialogue: 0,0:05:46.00,0:05:48.00,Default,,0,0,0,,是黑  是白
-Dialogue: 0,0:05:48.00,0:05:50.20,Default (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
+Dialogue: 0,0:05:48.00,0:05:50.20,Latin (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
 Dialogue: 0,0:05:48.00,0:05:50.20,Default,,0,0,0,,只要你要强  你便是强者
-Dialogue: 0,0:05:50.20,0:05:52.20,Default (Small),,0,0,0,,It's black, it's white.
+Dialogue: 0,0:05:50.20,0:05:52.20,Latin (Small),,0,0,0,,It's black, it's white.
 Dialogue: 0,0:05:50.20,0:05:52.20,Default,,0,0,0,,是黑  是白
-Dialogue: 0,0:05:54.40,0:05:56.40,Default (Small),,0,0,0,,It's black, it's white.
+Dialogue: 0,0:05:54.40,0:05:56.40,Latin (Small),,0,0,0,,It's black, it's white.
 Dialogue: 0,0:05:54.40,0:05:56.40,Default,,0,0,0,,是黑  是白
-Dialogue: 0,0:05:56.40,0:05:58.60,Default (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
+Dialogue: 0,0:05:56.40,0:05:58.60,Latin (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
 Dialogue: 0,0:05:56.40,0:05:58.60,Default,,0,0,0,,只要你要强  你便是强者
-Dialogue: 0,0:05:58.60,0:05:59.60,Default (Small),,0,0,0,,It's black...
+Dialogue: 0,0:05:58.60,0:05:59.60,Latin (Small),,0,0,0,,It's black...
 Dialogue: 0,0:05:58.60,0:05:59.60,Default,,0,0,0,,是黑...
-Dialogue: 0,0:06:00.80,0:06:01.80,Default (Small),,0,0,0,,Alright!
+Dialogue: 0,0:06:00.80,0:06:01.80,Latin (Small),,0,0,0,,Alright!
 Dialogue: 0,0:06:00.80,0:06:01.80,Default,,0,0,0,,就是这样!
-Dialogue: 0,0:06:02.80,0:06:04.80,Default (Small),,0,0,0,,It's black, it's white.
+Dialogue: 0,0:06:02.80,0:06:04.80,Latin (Small),,0,0,0,,It's black, it's white.
 Dialogue: 0,0:06:02.80,0:06:04.80,Default,,0,0,0,,是黑  是白
-Dialogue: 0,0:06:04.80,0:06:07.00,Default (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
+Dialogue: 0,0:06:04.80,0:06:07.00,Latin (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
 Dialogue: 0,0:06:04.80,0:06:07.00,Default,,0,0,0,,只要你要强  你便是强者
-Dialogue: 0,0:06:07.00,0:06:08.80,Default (Small),,0,0,0,,It's black, it's white.
+Dialogue: 0,0:06:07.00,0:06:08.80,Latin (Small),,0,0,0,,It's black, it's white.
 Dialogue: 0,0:06:07.00,0:06:08.80,Default,,0,0,0,,是黑  是白
-Dialogue: 0,0:06:11.20,0:06:13.20,Default (Small),,0,0,0,,It's black, it's white.
+Dialogue: 0,0:06:11.20,0:06:13.20,Latin (Small),,0,0,0,,It's black, it's white.
 Dialogue: 0,0:06:11.20,0:06:13.20,Default,,0,0,0,,是黑  是白
-Dialogue: 0,0:06:13.20,0:06:15.40,Default (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
+Dialogue: 0,0:06:13.20,0:06:15.40,Latin (Small),,0,0,0,,It's tough for you to be bad... Yeah, yeah, yeah...
 Dialogue: 0,0:06:13.20,0:06:15.40,Default,,0,0,0,,只要你要强  你便是强者
-Dialogue: 0,0:06:15.40,0:06:17.20,Default (Small),,0,0,0,,It's black, it's white.
+Dialogue: 0,0:06:15.40,0:06:17.20,Latin (Small),,0,0,0,,It's black, it's white.
 Dialogue: 0,0:06:15.40,0:06:17.20,Default,,0,0,0,,是黑  是白
-Dialogue: 0,0:06:18.60,0:06:22.00,Default (Small),,0,0,0,,Cut! That's perfect! ...
+Dialogue: 0,0:06:18.60,0:06:22.00,Latin (Small),,0,0,0,,Cut! That's perfect! ...
 Dialogue: 0,0:06:18.60,0:06:22.00,Default,,0,0,0,,卡! 完美! ...
 Dialogue: 0,0:06:35.60,0:06:41.60,Default,,0,0,0,,(「黑豹之舞」片段开始)
 Dialogue: 0,0:08:39.90,0:08:41.60,Default,,0,0,0,,(玻璃: 希特勒万岁)
@@ -186,6 +186,6 @@ Dialogue: 0,0:08:43.40,0:08:47.20,Default,,0,0,0,,(玻璃: 黑鬼滚回家去)
 Dialogue: 0,0:08:51.20,0:08:53.30,Default,,0,0,0,,(玻璃: 抵制墨西哥移民)
 Dialogue: 0,0:09:19.50,0:09:20.30,Default,,0,0,0,,(玻璃: 三K党主宰一切)
 Dialogue: 0,0:09:55.60,0:09:57.40,Default,,0,0,0,,(招牌: 皇家酒店)
-Dialogue: 0,0:10:54.60,0:10:56.20,Default (Small),,0,0,0,,Bart! Turn off that noise.
+Dialogue: 0,0:10:54.60,0:10:56.20,Latin (Small),,0,0,0,,Bart! Turn off that noise.
 Dialogue: 0,0:10:54.60,0:10:56.20,Default,,0,0,0,,巴特! 把那噪音关了
 Dialogue: 0,0:11:02.50,0:11:05.80,Default,,0,0,0,,(偏见即是无知)

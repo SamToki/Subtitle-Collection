@@ -16,14 +16,13 @@ Video File: 【JR東日本】コンセプトムービー「BE CREATIVE」.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 78
+Video Position: 42
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Default (Small),方正FW筑紫黑 简 D,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 Style: Default (Top),方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,50,50,50,1
+Style: Latin (Small),Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 Style: Japanese (Small),HiraginoKaku W4,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 
 [Events]
@@ -54,7 +53,7 @@ Dialogue: 0,0:00:51.00,0:00:52.20,Default,,0,0,0,,{\i1}三号线
 Dialogue: 0,0:00:52.90,0:00:54.30,Japanese (Small),,0,0,0,,{\i1}ご注意ください
 Dialogue: 0,0:00:52.90,0:00:54.30,Default,,0,0,0,,{\i1}请注意安全
 Dialogue: 0,0:01:25.60,0:01:40.60,Default,,0,0,0,,{\i1}(英语报站)
-Dialogue: 0,0:02:57.80,0:03:03.00,Default (Small),,0,0,0,,{\i1}The next station is Tokyo. The doors on the left side will open.
+Dialogue: 0,0:02:57.80,0:03:03.00,Latin (Small),,0,0,0,,{\i1}The next station is Tokyo. The doors on the left side will open.
 Dialogue: 0,0:02:57.80,0:03:03.00,Default,,0,0,0,,{\i1}下一站  东京  开左侧门
 Dialogue: 0,0:02:59.00,0:03:03.00,Default (Top),,0,0,0,,(创意满载)
 Dialogue: 0,0:03:04.60,0:03:08.60,Default,,0,0,0,,(通向未来的车票)\N(JR东日本铁路公司)
