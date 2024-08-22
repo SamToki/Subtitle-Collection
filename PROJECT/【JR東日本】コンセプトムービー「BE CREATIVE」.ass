@@ -16,14 +16,15 @@ Video File: 【JR東日本】コンセプトムービー「BE CREATIVE」.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 42
+Active Line: 26
+Video Position: 5329
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 Style: Default (Top),方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,50,50,50,1
 Style: Latin (Small),Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Japanese (Small),HiraginoKaku W4,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Japanese (Small),HiraginoKaku W4,42,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
