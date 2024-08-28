@@ -22,79 +22,79 @@ Video Position: 1375
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Korean (Small),Sarasa UI K,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Korean,Sarasa UI K,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 Style: Soramimi (Small),霞鹜文楷,54,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.50,0:00:13.60,Default,,0,0,0,,(请忽略视频中的内嵌字幕)
-Dialogue: 0,0:00:22.40,0:00:26.10,Korean (Small),,0,0,0,,나가자 朝鮮人民軍
+Dialogue: 0,0:00:22.40,0:00:26.10,Korean,,0,0,0,,나가자 朝鮮人民軍
 Dialogue: 0,0:00:22.40,0:00:26.10,Default,,0,0,0,,向前进  朝鲜人民军
 Dialogue: 0,0:00:22.40,0:00:24.30,Soramimi (Small),,0,0,0,,大胆上
 Dialogue: 0,0:00:24.30,0:00:26.10,Soramimi (Small),,0,0,0,,插他硬屁股!
-Dialogue: 0,0:00:26.10,0:00:29.70,Korean (Small),,0,0,0,,一當百 勇猛을 떨치며
+Dialogue: 0,0:00:26.10,0:00:29.70,Korean,,0,0,0,,一當百 勇猛을 떨치며
 Dialogue: 0,0:00:26.10,0:00:29.70,Default,,0,0,0,,以一当百  勇猛顽强
 Dialogue: 0,0:00:26.10,0:00:29.70,Soramimi (Small),,0,0,0,,你看你肛门能挨几秒
-Dialogue: 0,0:00:29.70,0:00:33.50,Korean (Small),,0,0,0,,帝國主義侵略者
+Dialogue: 0,0:00:29.70,0:00:33.50,Korean,,0,0,0,,帝國主義侵略者
 Dialogue: 0,0:00:29.70,0:00:33.50,Default,,0,0,0,,帝国主义侵略者
 Dialogue: 0,0:00:29.70,0:00:33.50,Soramimi (Small),,0,0,0,,射不出也请压榨
-Dialogue: 0,0:00:33.50,0:00:36.70,Korean (Small),,0,0,0,,모조리 때려 부시자
+Dialogue: 0,0:00:33.50,0:00:36.70,Korean,,0,0,0,,모조리 때려 부시자
 Dialogue: 0,0:00:33.50,0:00:36.70,Default,,0,0,0,,把他们全部消灭光
 Dialogue: 0,0:00:33.50,0:00:36.70,Soramimi (Small),,0,0,0,,我说你别不洗澡!
-Dialogue: 0,0:00:37.20,0:00:41.00,Korean (Small),,0,0,0,,抗日의 빛나는 傳統을 이어
+Dialogue: 0,0:00:37.20,0:00:41.00,Korean,,0,0,0,,抗日의 빛나는 傳統을 이어
 Dialogue: 0,0:00:37.20,0:00:41.00,Default,,0,0,0,,继承抗日的光辉传统
 Dialogue: 0,0:00:37.20,0:00:39.20,Soramimi (Small),,0,0,0,,钢铁的鲁大根
 Dialogue: 0,0:00:39.20,0:00:41.00,Soramimi (Small),,0,0,0,,上床撸一撸
-Dialogue: 0,0:00:41.00,0:00:44.70,Korean (Small),,0,0,0,,鋼鐵로 다져진 榮光의 隊伍
+Dialogue: 0,0:00:41.00,0:00:44.70,Korean,,0,0,0,,鋼鐵로 다져진 榮光의 隊伍
 Dialogue: 0,0:00:41.00,0:00:44.70,Default,,0,0,0,,光荣的队伍百炼成钢
 Dialogue: 0,0:00:41.00,0:00:42.90,Soramimi (Small),,0,0,0,,刚吹了大搞基
 Dialogue: 0,0:00:42.90,0:00:44.70,Soramimi (Small),,0,0,0,,娘们也得搂
-Dialogue: 0,0:00:44.70,0:00:48.50,Korean (Small),,0,0,0,,金日成元帥님의 붉은 戰士로
+Dialogue: 0,0:00:44.70,0:00:48.50,Korean,,0,0,0,,金日成元帥님의 붉은 戰士로
 Dialogue: 0,0:00:44.70,0:00:48.50,Default,,0,0,0,,金日成元帅的红色战士们
 Dialogue: 0,0:00:44.70,0:00:46.70,Soramimi (Small),,0,0,0,,纪律是无私的耶
 Dialogue: 0,0:00:46.70,0:00:48.50,Soramimi (Small),,0,0,0,,军营政策好
-Dialogue: 0,0:00:48.50,0:00:52.40,Korean (Small),,0,0,0,,社會主義 내 祖國 지켜 싸운다
+Dialogue: 0,0:00:48.50,0:00:52.40,Korean,,0,0,0,,社會主義 내 祖國 지켜 싸운다
 Dialogue: 0,0:00:48.50,0:00:52.40,Default,,0,0,0,,为社会主义祖国誓死战斗
 Dialogue: 0,0:00:48.50,0:00:50.40,Soramimi (Small),,0,0,0,,什么主义  别在乎
 Dialogue: 0,0:00:50.40,0:00:52.40,Soramimi (Small),,0,0,0,,尽管上他
-Dialogue: 0,0:00:52.40,0:00:56.10,Korean (Small),,0,0,0,,나가자 朝鮮人民軍
+Dialogue: 0,0:00:52.40,0:00:56.10,Korean,,0,0,0,,나가자 朝鮮人民軍
 Dialogue: 0,0:00:52.40,0:00:56.10,Default,,0,0,0,,向前进  朝鲜人民军
 Dialogue: 0,0:00:52.40,0:00:54.20,Soramimi (Small),,0,0,0,,大胆上
 Dialogue: 0,0:00:54.20,0:00:56.10,Soramimi (Small),,0,0,0,,草死硬屁股!
-Dialogue: 0,0:00:56.10,0:00:59.70,Korean (Small),,0,0,0,,一當百 勇猛을 떨치며
+Dialogue: 0,0:00:56.10,0:00:59.70,Korean,,0,0,0,,一當百 勇猛을 떨치며
 Dialogue: 0,0:00:56.10,0:00:59.70,Default,,0,0,0,,以一当百  勇猛顽强
 Dialogue: 0,0:00:56.10,0:00:59.70,Soramimi (Small),,0,0,0,,一百个大老爷们爱基佬
-Dialogue: 0,0:00:59.70,0:01:03.30,Korean (Small),,0,0,0,,帝國主義侵略者
+Dialogue: 0,0:00:59.70,0:01:03.30,Korean,,0,0,0,,帝國主義侵略者
 Dialogue: 0,0:00:59.70,0:01:03.30,Default,,0,0,0,,帝国主义侵略者
 Dialogue: 0,0:00:59.70,0:01:03.30,Soramimi (Small),,0,0,0,,射不出  你鸡眼炸!
-Dialogue: 0,0:01:03.30,0:01:07.60,Korean (Small),,0,0,0,,모조리 때려 부시자
+Dialogue: 0,0:01:03.30,0:01:07.60,Korean,,0,0,0,,모조리 때려 부시자
 Dialogue: 0,0:01:03.30,0:01:07.60,Default,,0,0,0,,把他们全部消灭光
 Dialogue: 0,0:01:03.30,0:01:07.60,Soramimi (Small),,0,0,0,,卧槽你别不洗澡!
-Dialogue: 0,0:01:21.90,0:01:25.60,Korean (Small),,0,0,0,,지나온 싸움의 발걸음마다
+Dialogue: 0,0:01:21.90,0:01:25.60,Korean,,0,0,0,,지나온 싸움의 발걸음마다
 Dialogue: 0,0:01:21.90,0:01:25.60,Default,,0,0,0,,回顾过去战斗的每一步
 Dialogue: 0,0:01:21.90,0:01:25.60,Soramimi (Small),,0,0,0,,基佬上面很多大疙瘩
-Dialogue: 0,0:01:25.60,0:01:29.30,Korean (Small),,0,0,0,,勝利로 빛나는 不敗의 隊伍
+Dialogue: 0,0:01:25.60,0:01:29.30,Korean,,0,0,0,,勝利로 빛나는 不敗의 隊伍
 Dialogue: 0,0:01:25.60,0:01:29.30,Default,,0,0,0,,胜利的光辉下不败的队伍
 Dialogue: 0,0:01:25.60,0:01:27.50,Soramimi (Small),,0,0,0,,神秘的金大撸
 Dialogue: 0,0:01:27.50,0:01:29.30,Soramimi (Small),,0,0,0,,跪着也得撸
-Dialogue: 0,0:01:29.30,0:01:33.00,Korean (Small),,0,0,0,,首領님이 부르시는 오직 한길로
+Dialogue: 0,0:01:29.30,0:01:33.00,Korean,,0,0,0,,首領님이 부르시는 오직 한길로
 Dialogue: 0,0:01:29.30,0:01:33.00,Default,,0,0,0,,沿着领袖指引的唯一道路
 Dialogue: 0,0:01:29.30,0:01:31.20,Soramimi (Small),,0,0,0,,死兄♂弟站不起来
 Dialogue: 0,0:01:31.20,0:01:33.00,Soramimi (Small),,0,0,0,,咋地看你啦
-Dialogue: 0,0:01:33.00,0:01:36.80,Korean (Small),,0,0,0,,朝鮮의 革命을 完遂하리라
+Dialogue: 0,0:01:33.00,0:01:36.80,Korean,,0,0,0,,朝鮮의 革命을 完遂하리라
 Dialogue: 0,0:01:33.00,0:01:36.80,Default,,0,0,0,,要将朝鲜革命进行到底
 Dialogue: 0,0:01:33.00,0:01:34.90,Soramimi (Small),,0,0,0,,总司令  张着嘴
 Dialogue: 0,0:01:34.90,0:01:36.80,Soramimi (Small),,0,0,0,,撸出来啦
-Dialogue: 0,0:01:36.80,0:01:40.40,Korean (Small),,0,0,0,,나가자 朝鮮人民軍
+Dialogue: 0,0:01:36.80,0:01:40.40,Korean,,0,0,0,,나가자 朝鮮人民軍
 Dialogue: 0,0:01:36.80,0:01:40.40,Default,,0,0,0,,向前进  朝鲜人民军
 Dialogue: 0,0:01:36.80,0:01:38.70,Soramimi (Small),,0,0,0,,大胆上
 Dialogue: 0,0:01:38.70,0:01:40.40,Soramimi (Small),,0,0,0,,插他硬屁股!
-Dialogue: 0,0:01:40.40,0:01:44.20,Korean (Small),,0,0,0,,一當百 勇猛을 떨치며
+Dialogue: 0,0:01:40.40,0:01:44.20,Korean,,0,0,0,,一當百 勇猛을 떨치며
 Dialogue: 0,0:01:40.40,0:01:44.20,Default,,0,0,0,,以一当百  勇猛顽强
 Dialogue: 0,0:01:40.40,0:01:44.20,Soramimi (Small),,0,0,0,,你看你肛门能挨几秒
-Dialogue: 0,0:01:44.20,0:01:48.30,Korean (Small),,0,0,0,,帝國主義侵略者
+Dialogue: 0,0:01:44.20,0:01:48.30,Korean,,0,0,0,,帝國主義侵略者
 Dialogue: 0,0:01:44.20,0:01:48.30,Default,,0,0,0,,帝国主义侵略者
 Dialogue: 0,0:01:44.20,0:01:48.30,Soramimi (Small),,0,0,0,,射不出也请压榨!
-Dialogue: 0,0:01:50.20,0:01:57.50,Korean (Small),,0,0,0,,모조리 때려 부시자
+Dialogue: 0,0:01:50.20,0:01:57.50,Korean,,0,0,0,,모조리 때려 부시자
 Dialogue: 0,0:01:50.20,0:01:57.50,Default,,0,0,0,,把他们全部消灭光
 Dialogue: 0,0:01:50.20,0:01:57.50,Soramimi (Small),,0,0,0,,我这一天都不洗澡!

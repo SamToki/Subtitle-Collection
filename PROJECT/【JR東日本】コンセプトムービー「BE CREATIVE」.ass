@@ -22,39 +22,38 @@ Video Position: 5329
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Default (Top),方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,50,50,50,1
-Style: Latin (Small),Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Japanese (Small),HiraginoKaku W4,42,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Foreign,Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Top,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.40,0:00:06.00,Default (Top),,0,0,0,,(创意满载)
-Dialogue: 0,0:00:02.60,0:00:05.00,Japanese (Small),,0,0,0,,{\i1}一番線  ドアが閉まります
+Dialogue: 0,0:00:01.40,0:00:06.00,Top,,0,0,0,,(创意满载)
+Dialogue: 0,0:00:02.60,0:00:05.00,Foreign,,0,0,0,,{\i1}一番線  ドアが閉まります
 Dialogue: 0,0:00:02.60,0:00:05.00,Default,,0,0,0,,{\i1}一号线  即将关门
-Dialogue: 0,0:00:05.40,0:00:06.80,Japanese (Small),,0,0,0,,{\i1}ご注意ください
+Dialogue: 0,0:00:05.40,0:00:06.80,Foreign,,0,0,0,,{\i1}ご注意ください
 Dialogue: 0,0:00:05.40,0:00:06.80,Default,,0,0,0,,{\i1}请注意安全
-Dialogue: 0,0:00:06.80,0:00:08.70,Japanese (Small),,0,0,0,,{\i1}ください…さい…さい…
+Dialogue: 0,0:00:06.80,0:00:08.70,Foreign,,0,0,0,,{\i1}ください…さい…さい…
 Dialogue: 0,0:00:06.80,0:00:08.70,Default,,0,0,0,,{\i1}意安全…全…全…
 Dialogue: 0,0:00:15.40,0:00:16.30,Default,,0,0,0,,(禁止冲过闸门)
-Dialogue: 0,0:00:39.40,0:00:40.60,Japanese (Small),,0,0,0,,{\i1}一番線
+Dialogue: 0,0:00:39.40,0:00:40.60,Foreign,,0,0,0,,{\i1}一番線
 Dialogue: 0,0:00:39.40,0:00:40.60,Default,,0,0,0,,{\i1}一号线
-Dialogue: 0,0:00:41.40,0:00:42.50,Japanese (Small),,0,0,0,,{\i1}二番線
+Dialogue: 0,0:00:41.40,0:00:42.50,Foreign,,0,0,0,,{\i1}二番線
 Dialogue: 0,0:00:41.40,0:00:42.50,Default,,0,0,0,,{\i1}二号线
-Dialogue: 0,0:00:41.40,0:00:43.20,Default (Top),,0,0,0,,(盛冈站)
-Dialogue: 0,0:00:43.20,0:00:44.50,Japanese (Small),,0,0,0,,{\i1}三番線
+Dialogue: 0,0:00:41.40,0:00:43.20,Top,,0,0,0,,(盛冈站)
+Dialogue: 0,0:00:43.20,0:00:44.50,Foreign,,0,0,0,,{\i1}三番線
 Dialogue: 0,0:00:43.20,0:00:44.50,Default,,0,0,0,,{\i1}三号线
-Dialogue: 0,0:00:45.20,0:00:46.60,Japanese (Small),,0,0,0,,{\i1}ご注意ください
+Dialogue: 0,0:00:45.20,0:00:46.60,Foreign,,0,0,0,,{\i1}ご注意ください
 Dialogue: 0,0:00:45.20,0:00:46.60,Default,,0,0,0,,{\i1}请注意安全
-Dialogue: 0,0:00:46.90,0:00:48.30,Japanese (Small),,0,0,0,,{\i1}一  一番線
+Dialogue: 0,0:00:46.90,0:00:48.30,Foreign,,0,0,0,,{\i1}一  一番線
 Dialogue: 0,0:00:46.90,0:00:48.30,Default,,0,0,0,,{\i1}一  一号线
-Dialogue: 0,0:00:49.10,0:00:50.30,Japanese (Small),,0,0,0,,{\i1}二番線
+Dialogue: 0,0:00:49.10,0:00:50.30,Foreign,,0,0,0,,{\i1}二番線
 Dialogue: 0,0:00:49.10,0:00:50.30,Default,,0,0,0,,{\i1}二号线
-Dialogue: 0,0:00:51.00,0:00:52.20,Japanese (Small),,0,0,0,,{\i1}三番線
+Dialogue: 0,0:00:51.00,0:00:52.20,Foreign,,0,0,0,,{\i1}三番線
 Dialogue: 0,0:00:51.00,0:00:52.20,Default,,0,0,0,,{\i1}三号线
-Dialogue: 0,0:00:52.90,0:00:54.30,Japanese (Small),,0,0,0,,{\i1}ご注意ください
+Dialogue: 0,0:00:52.90,0:00:54.30,Foreign,,0,0,0,,{\i1}ご注意ください
 Dialogue: 0,0:00:52.90,0:00:54.30,Default,,0,0,0,,{\i1}请注意安全
 Dialogue: 0,0:01:25.60,0:01:40.60,Default,,0,0,0,,{\i1}(英语报站)
-Dialogue: 0,0:02:57.80,0:03:03.00,Latin (Small),,0,0,0,,{\i1}The next station is Tokyo. The doors on the left side will open.
+Dialogue: 0,0:02:57.80,0:03:03.00,Foreign,,0,0,0,,{\i1}The next station is Tokyo. The doors on the left side will open.
 Dialogue: 0,0:02:57.80,0:03:03.00,Default,,0,0,0,,{\i1}下一站  东京  开左侧门
-Dialogue: 0,0:02:59.00,0:03:03.00,Default (Top),,0,0,0,,(创意满载)
+Dialogue: 0,0:02:59.00,0:03:03.00,Top,,0,0,0,,(创意满载)
 Dialogue: 0,0:03:04.60,0:03:08.60,Default,,0,0,0,,(通向未来的车票)\N(JR东日本铁路公司)

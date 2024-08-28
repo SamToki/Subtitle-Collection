@@ -16,21 +16,21 @@ Active Line: 21
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Latin (Small),Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Foreign,Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.40,0:00:04.00,Latin (Small),,0,0,0,,Oh, howdy, mom?
+Dialogue: 0,0:00:02.40,0:00:04.00,Foreign,,0,0,0,,Oh, howdy, mom?
 Dialogue: 0,0:00:02.40,0:00:04.00,Default,,0,0,0,,哦  你好啊  老妈
-Dialogue: 0,0:00:06.70,0:00:09.50,Latin (Small),,0,0,0,,I hear you are the best mom in the world.
+Dialogue: 0,0:00:06.70,0:00:09.50,Foreign,,0,0,0,,I hear you are the best mom in the world.
 Dialogue: 0,0:00:06.70,0:00:09.50,Default,,0,0,0,,我听说你是世界上最好的母亲
-Dialogue: 0,0:00:09.90,0:00:10.80,Latin (Small),,0,0,0,,Well?
+Dialogue: 0,0:00:09.90,0:00:10.80,Foreign,,0,0,0,,Well?
 Dialogue: 0,0:00:09.90,0:00:10.80,Default,,0,0,0,,如何?
-Dialogue: 0,0:00:11.40,0:00:13.40,Latin (Small),,0,0,0,,What do you think, boys?
+Dialogue: 0,0:00:11.40,0:00:13.40,Foreign,,0,0,0,,What do you think, boys?
 Dialogue: 0,0:00:11.40,0:00:13.40,Default,,0,0,0,,你们觉得呢? 臭小子们
-Dialogue: 0,0:00:27.60,0:00:29.40,Latin (Small),,0,0,0,,I love you, mom.
+Dialogue: 0,0:00:27.60,0:00:29.40,Foreign,,0,0,0,,I love you, mom.
 Dialogue: 0,0:00:27.60,0:00:29.40,Default,,0,0,0,,我爱你  老妈
-Dialogue: 0,0:00:35.50,0:00:37.40,Latin (Small),,0,0,0,,You are a real special lady.
+Dialogue: 0,0:00:35.50,0:00:37.40,Foreign,,0,0,0,,You are a real special lady.
 Dialogue: 0,0:00:35.50,0:00:37.40,Default,,0,0,0,,你是一位独一无二的淑女
 Dialogue: 0,0:00:41.20,0:00:42.20,Default,,0,0,0,,(做...)
 Dialogue: 0,0:00:42.20,0:00:43.50,Default,,0,0,0,,(做这个...)
@@ -42,5 +42,5 @@ Dialogue: 0,0:00:47.00,0:00:48.00,Default,,0,0,0,,(做这个世界上最酷的..
 Dialogue: 0,0:00:48.00,0:00:48.90,Default,,0,0,0,,(做这个世界上最酷的老妈...)
 Dialogue: 0,0:00:48.90,0:00:49.90,Default,,0,0,0,,(做这个世界上最酷的老妈感觉...)
 Dialogue: 0,0:00:49.90,0:00:52.50,Default,,0,0,0,,(做这个世界上最酷的老妈感觉不错吧!)
-Dialogue: 0,0:00:57.50,0:00:59.30,Latin (Small),,0,0,0,,Happy Mother's Day!
+Dialogue: 0,0:00:57.50,0:00:59.30,Foreign,,0,0,0,,Happy Mother's Day!
 Dialogue: 0,0:00:57.50,0:00:59.30,Default,,0,0,0,,母亲节快乐!
