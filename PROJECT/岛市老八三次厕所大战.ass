@@ -15,14 +15,14 @@ Audio File: 岛市老八三次厕所大战.mp4
 Video File: 岛市老八三次厕所大战.mp4
 Video AR Mode: 4
 Video AR Value: 0.750000
-Active Line: 12
+Active Line: 21
 Video Position: 825
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,0,2,50,50,50,1
+Style: Default,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,0,2,50,50,50,1
 Style: Phonetic,方正FW筑紫黑 简 D,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,0,2,50,50,50,1
-Style: Top,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,0,8,50,50,50,1
+Style: Top,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,0,8,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -40,11 +40,11 @@ Dialogue: 0,0:00:21.10,0:00:24.00,Default,,0,0,0,,只有你们想不到的  就�
 Dialogue: 0,0:00:24.00,0:00:27.50,Default,,0,0,0,,你们不要笑我狼狈不堪  我也可以笑你
 Dialogue: 0,0:00:27.50,0:00:30.10,Default,,0,0,0,,离开你的父母  比我吃屎都难
 Dialogue: 0,0:00:30.10,0:00:32.70,Default,,0,0,0,,奥利给  干了兄~弟们!
-Dialogue: 0,0:00:32.70,0:00:35.70,Default,,0,0,0,,↑\N(明显是泥土)
+Dialogue: 0,0:00:32.70,0:00:35.70,Default,,0,0,0,,↑\N※ 明显是泥土
 Dialogue: 0,0:00:49.70,0:00:52.70,Top,,0,0,0,,[第一次厕所大战]
 Dialogue: 0,0:00:52.00,0:00:53.10,Default,,0,0,0,,老铁们啊
 Dialogue: 0,0:00:53.80,0:00:56.40,Default,,0,0,0,,只有你们想不到的  没有老八做不到的啊
 Dialogue: 0,0:00:56.40,0:00:57.50,Default,,0,0,0,,还是那句话
 Dialogue: 0,0:00:57.50,0:01:00.20,Default,,0,0,0,,今天我老八  挑战一把吃屎
 Dialogue: 0,0:01:00.20,0:01:03.00,Default,,0,0,0,,兄弟们  奥利给  干啦!
-Dialogue: 0,0:01:03.00,0:01:06.00,Default,,0,0,0,,↑\N(第一次可能是真屎)
+Dialogue: 0,0:01:03.00,0:01:06.00,Default,,0,0,0,,↑\N※ 第一次可能是真屎

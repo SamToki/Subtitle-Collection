@@ -15,23 +15,24 @@ Audio File: 7843496_Windows 95 广告 多任务处理.mp4
 Video File: 7843496_Windows 95 广告 多任务处理.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Active Line: 1
 Video Position: 297
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Default,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Default (Italic),方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 Style: Foreign,Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Foreign (Italic),Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,-1,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.60,0:00:04.00,Default,,0,0,0,,(开始™)
-Dialogue: 0,0:00:09.90,0:00:14.30,Foreign,,0,0,0,,{\i1}It used to be difficult for personal computers to do more than one thing at a time.
-Dialogue: 0,0:00:09.90,0:00:14.30,Default,,0,0,0,,{\i1}以前的电脑很难在同一时间做许多事情
-Dialogue: 0,0:00:19.80,0:00:22.80,Foreign,,0,0,0,,{\i1}Starting with Windows 95, it's easy.
-Dialogue: 0,0:00:19.80,0:00:22.80,Default,,0,0,0,,{\i1}从 Windows 95 开始  这将变得易如反掌
-Dialogue: 0,0:00:23.30,0:00:24.80,Foreign,,0,0,0,,{\i1}Start multitasking.
-Dialogue: 0,0:00:23.30,0:00:24.80,Default,,0,0,0,,{\i1}畅享多任务处理
-Dialogue: 0,0:00:25.70,0:00:27.90,Foreign,,0,0,0,,{\i1}Start Windows 95.
-Dialogue: 0,0:00:25.70,0:00:27.90,Default,,0,0,0,,{\i1}畅享 Windows 95
+Dialogue: 0,0:00:09.90,0:00:14.30,Foreign (Italic),,0,0,0,,It used to be difficult for personal computers to do more than one thing at a time.
+Dialogue: 0,0:00:09.90,0:00:14.30,Default (Italic),,0,0,0,,以前的电脑很难在同一时间做许多事情
+Dialogue: 0,0:00:19.80,0:00:22.80,Foreign (Italic),,0,0,0,,Starting with Windows 95, it's easy.
+Dialogue: 0,0:00:19.80,0:00:22.80,Default (Italic),,0,0,0,,但从 Windows 95 开始  这将变得易如反掌
+Dialogue: 0,0:00:23.30,0:00:24.80,Foreign (Italic),,0,0,0,,Start multitasking.
+Dialogue: 0,0:00:23.30,0:00:24.80,Default (Italic),,0,0,0,,畅享多任务处理
+Dialogue: 0,0:00:25.70,0:00:27.90,Foreign (Italic),,0,0,0,,Start Windows 95.
+Dialogue: 0,0:00:25.70,0:00:27.90,Default (Italic),,0,0,0,,畅享 Windows 95
 Dialogue: 0,0:00:27.90,0:00:31.00,Default,,0,0,0,,(微软®)\N(今天你想探索哪里?™)

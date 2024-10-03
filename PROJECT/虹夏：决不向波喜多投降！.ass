@@ -21,13 +21,13 @@ Video Position: 2407
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nijika,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H0016A9D9,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
-Style: Ryou,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00A66138,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
-Style: Kikuri,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00765DB7,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
-Style: Kita,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H003E42FF,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
-Style: Bocchi,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00957FE8,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
-Style: PA,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H005A522F,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
-Style: Matsumoto Rise,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H0063617E,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
+Style: Nijika,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H0016A9D9,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
+Style: Ryou,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00A66138,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
+Style: Kikuri,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00765DB7,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
+Style: Kita,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H003E42FF,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
+Style: Bocchi,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00957FE8,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
+Style: PA,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H005A522F,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
+Style: Matsumoto Rise (Italic),方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H0063617E,&H00000000,0,-1,0,0,100,100,0,0,1,4,2,2,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -54,4 +54,4 @@ Dialogue: 0,0:00:34.40,0:00:35.30,Kita,,0,0,0,,波奇酱你想干什么!
 Dialogue: 0,0:00:35.30,0:00:37.80,Bocchi,,0,0,0,,如果我们不离的话  我就没法满足虹夏的感情
 Dialogue: 0,0:00:37.80,0:00:39.10,Kita,,0,0,0,,我不许你背叛我
 Dialogue: 0,0:00:39.10,0:00:41.60,Kita,,0,0,0,,你敢背叛的话  我就一指崩了你
-Dialogue: 0,0:00:43.50,0:00:45.50,Matsumoto Rise,,0,0,0,,(老师的什么东西又爆炸了...)
+Dialogue: 0,0:00:43.50,0:00:45.50,Matsumoto Rise (Italic),,0,0,0,,老师的什么东西又爆炸了...?

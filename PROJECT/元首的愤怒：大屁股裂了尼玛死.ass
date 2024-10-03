@@ -16,13 +16,14 @@ Video File: 元首的愤怒：大屁股裂了尼玛死.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 5
+Active Line: 9
+Video Position: 746
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
+Style: Default,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 Style: Foreign,Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
-Style: Top,方正FW筑紫黑 简 D,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,50,50,50,1
+Style: Top,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,50,50,50,1
 Style: Soramimi (Small),霞鹜文楷,54,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,50,50,50,1
 
 [Events]
@@ -35,8 +36,8 @@ Dialogue: 0,0:00:01.80,0:00:03.20,Default,,0,0,0,,这太可耻了
 Dialogue: 0,0:00:01.80,0:00:03.20,Soramimi (Small),,0,0,0,,她是你敢爆的!
 Dialogue: 0,0:00:03.50,0:00:06.20,Foreign,,0,0,0,,Ich habe Berlin von Jahren gegen die Roten erobert,
 Dialogue: 0,0:00:03.50,0:00:06.20,Default,,0,0,0,,我这几年来死守柏林抵抗苏军
-Dialogue: 0,0:00:03.50,0:00:04.80,Soramimi (Small),,0,0,0,,一下午大林放羊
-Dialogue: 0,0:00:04.80,0:00:06.20,Soramimi (Small),,0,0,0,,给了你龌龊的欧巴特
+Dialogue: 0,0:00:03.50,0:00:04.70,Soramimi (Small),,0,0,0,,一下午大林放羊
+Dialogue: 0,0:00:04.70,0:00:06.20,Soramimi (Small),,0,0,0,,给了你龌龊的欧巴特
 Dialogue: 0,0:00:06.20,0:00:10.40,Foreign,,0,0,0,,und werde die Stadt bis zum letzten Atemzug gegen die Roten verteidigen!
 Dialogue: 0,0:00:06.20,0:00:10.40,Default,,0,0,0,,我必须要在这奋战到最后一刻
 Dialogue: 0,0:00:06.20,0:00:07.20,Soramimi (Small),,0,0,0,,我来给你疏♂导
@@ -71,7 +72,7 @@ Dialogue: 0,0:00:29.00,0:00:31.10,Soramimi (Small),,0,0,0,,安妮大屁股... �
 Dialogue: 0,0:00:31.10,0:00:33.40,Foreign,,0,0,0,,Setzen Sie sofort ein schreiben an Marschall Schukow auf.
 Dialogue: 0,0:00:31.10,0:00:33.40,Default,,0,0,0,,发一份急电给朱可夫元帅
 Dialogue: 0,0:00:31.10,0:00:33.40,Soramimi (Small),,0,0,0,,...马超吃豆腐  要♀腐
-Dialogue: 0,0:00:31.10,0:00:34.40,Top,,0,0,0,,(格奥尔基·朱可夫, 苏联元帅, 1945年率军攻克柏林)
+Dialogue: 0,0:00:31.10,0:00:34.40,Top,,0,0,0,,※ 格奥尔基·朱可夫, 苏联元帅, 1945年率军攻克柏林
 Dialogue: 0,0:00:33.40,0:00:34.40,Foreign,,0,0,0,,An Marschall Schukow?
 Dialogue: 0,0:00:33.40,0:00:34.40,Default,,0,0,0,,朱可夫元帅?
 Dialogue: 0,0:00:33.40,0:00:34.40,Soramimi (Small),,0,0,0,,那马超吃豆腐?
