@@ -16,9 +16,9 @@ Video File: 从地狱来的男人，蜘蛛侠！(东映蜘蛛侠 中文字幕).m
 Video AR Mode: 4
 Video AR Value: 1.372222
 Video Zoom Percent: 0.500000
-Scroll Position: 685
-Active Line: 713
-Video Position: 34733
+Scroll Position: 547
+Active Line: 564
+Video Position: 25740
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -606,12 +606,12 @@ Dialogue: 0,0:17:40.80,0:17:42.50,Foreign,,0,0,0,,マッシュだ
 Dialogue: 0,0:17:40.80,0:17:42.50,Default,,0,0,0,,玛修啦
 Dialogue: 0,0:17:45.90,0:17:47.30,Foreign,,0,0,0,,マッシュ
 Dialogue: 0,0:17:45.90,0:17:47.30,Default,,0,0,0,,玛修
-Dialogue: 0,0:17:47.80,0:17:49.50,Foreign,,0,0,0,,毒キノコの成分に
-Dialogue: 0,0:17:47.80,0:17:49.50,Default,,0,0,0,,将毒蘑菇的成分
-Dialogue: 0,0:17:49.50,0:17:52.50,Foreign,,0,0,0,,キノコンガーの体に生えたキノコを混ぜると
-Dialogue: 0,0:17:49.50,0:17:52.50,Default,,0,0,0,,与「菇菇兽」身上长出的蘑菇混合
-Dialogue: 0,0:17:52.50,0:17:56.00,Foreign,,0,0,0,,幻覚剤「マッシュ」が出来上がるのだった
-Dialogue: 0,0:17:52.50,0:17:56.00,Default,,0,0,0,,就可以造出致幻剂「玛修」
+Dialogue: 0,0:17:47.80,0:17:49.50,Foreign (Italic),,0,0,0,,毒キノコの成分に
+Dialogue: 0,0:17:47.80,0:17:49.50,Default (Italic),,0,0,0,,将毒蘑菇的成分
+Dialogue: 0,0:17:49.50,0:17:52.50,Foreign (Italic),,0,0,0,,キノコンガーの体に生えたキノコを混ぜると
+Dialogue: 0,0:17:49.50,0:17:52.50,Default (Italic),,0,0,0,,与「菇菇兽」身上长出的蘑菇混合
+Dialogue: 0,0:17:52.50,0:17:56.00,Foreign (Italic),,0,0,0,,幻覚剤「マッシュ」が出来上がるのだった
+Dialogue: 0,0:17:52.50,0:17:56.00,Default (Italic),,0,0,0,,就可以造出致幻剂「玛修」
 Dialogue: 0,0:18:03.10,0:18:04.60,Foreign,,0,0,0,,キノコ狩りの男
 Dialogue: 0,0:18:03.10,0:18:04.60,Default,,0,0,0,,来讨伐害人蘑菇的男人
 Dialogue: 0,0:18:04.60,0:18:05.64,Soramimi Foreign,,0,0,0,,スパイだわ!
