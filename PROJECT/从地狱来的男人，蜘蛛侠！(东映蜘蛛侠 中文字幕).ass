@@ -16,9 +16,9 @@ Video File: 从地狱来的男人，蜘蛛侠！(东映蜘蛛侠 中文字幕).m
 Video AR Mode: 4
 Video AR Value: 1.372222
 Video Zoom Percent: 0.500000
-Scroll Position: 547
-Active Line: 564
-Video Position: 25740
+Scroll Position: 322
+Active Line: 339
+Video Position: 12656
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -383,10 +383,10 @@ Dialogue: 0,0:08:37.04,0:08:38.62,Tsukommi,,0,0,0,,注意条纹方向
 Dialogue: 0,0:08:38.62,0:08:40.62,Tsukommi,,0,0,0,,穿帮: 他只是在箱顶上爬
 Dialogue: 0,0:08:44.60,0:08:45.50,Foreign,,0,0,0,,スパイダーマン...
 Dialogue: 0,0:08:44.60,0:08:45.50,Default,,0,0,0,,蜘蛛侠...
-Dialogue: 0,0:08:45.90,0:08:47.40,Foreign,,0,0,0,,復習に燃える男
-Dialogue: 0,0:08:45.90,0:08:47.40,Default,,0,0,0,,燃起复仇之火的男人
-Dialogue: 0,0:08:47.40,0:08:47.87,Foreign,,0,0,0,,スパイダー
-Dialogue: 0,0:08:47.40,0:08:47.87,Default,,0,0,0,,蜘蛛亻
+Dialogue: 0,0:08:45.90,0:08:47.30,Foreign,,0,0,0,,復讐に燃える男
+Dialogue: 0,0:08:45.90,0:08:47.30,Default,,0,0,0,,燃起复仇之火的男人
+Dialogue: 0,0:08:47.30,0:08:47.87,Foreign,,0,0,0,,スパイダー
+Dialogue: 0,0:08:47.30,0:08:47.87,Default,,0,0,0,,蜘蛛亻
 Dialogue: 0,0:08:52.00,0:08:53.20,Foreign,,0,0,0,,キラー一角獣
 Dialogue: 0,0:08:52.00,0:08:53.20,Default,,0,0,0,,独角杀手
 Dialogue: 0,0:08:56.30,0:08:58.40,Foreign,,0,0,0,,約束に命を懸ける男
