@@ -16,9 +16,9 @@ Video File: 从地狱来的男人，蜘蛛侠！(东映蜘蛛侠 中文字幕).m
 Video AR Mode: 4
 Video AR Value: 1.372222
 Video Zoom Percent: 0.500000
-Scroll Position: 322
-Active Line: 339
-Video Position: 12656
+Scroll Position: 676
+Active Line: 680
+Video Position: 33498
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -726,7 +726,7 @@ Dialogue: 0,0:23:00.00,0:23:01.50,Foreign,,0,0,0,,鉄十字キラー
 Dialogue: 0,0:23:00.00,0:23:01.50,Default,,0,0,0,,铁十字杀手
 Dialogue: 0,0:23:01.50,0:23:03.00,Foreign,,0,0,0,,スパイダーマン!
 Dialogue: 0,0:23:01.50,0:23:03.00,Default,,0,0,0,,蜘蛛侠!
-Dialogue: 0,0:23:10.90,0:23:14.80,Foreign,,0,0,0,,貴様のために  儂は宇宙ショーを見そびれだぞ
+Dialogue: 0,0:23:10.90,0:23:14.80,Foreign,,0,0,0,,貴様のために  儂は宇宙ショーを見そびれたぞ
 Dialogue: 0,0:23:10.90,0:23:14.80,Default,,0,0,0,,多亏了你  害得我看不了宇宙大戏
 Dialogue: 0,0:23:10.90,0:23:14.80,Phonetic,,0,0,0,,{\pos(1145,890)}show
 Dialogue: 0,0:23:10.90,0:23:14.80,Top,,0,0,0,,※ 宇宙大戏: 指蒙斯特教授\N大规模轰炸地球的终极计划
