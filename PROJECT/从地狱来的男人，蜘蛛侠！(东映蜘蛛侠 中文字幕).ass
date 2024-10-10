@@ -16,9 +16,9 @@ Video File: 从地狱来的男人，蜘蛛侠！(东映蜘蛛侠 中文字幕).m
 Video AR Mode: 4
 Video AR Value: 1.372222
 Video Zoom Percent: 0.500000
-Scroll Position: 676
-Active Line: 680
-Video Position: 33498
+Scroll Position: 604
+Active Line: 613
+Video Position: 29012
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -657,8 +657,8 @@ Dialogue: 0,0:19:50.00,0:19:52.30,Default,,0,0,0,,从勇敢的少年看到希望
 Dialogue: 0,0:19:51.60,0:19:53.60,Tsukommi,,0,0,0,,忘拉手刹的男人
 Dialogue: 0,0:19:52.70,0:19:53.60,Foreign,,0,0,0,,スパイダーマン
 Dialogue: 0,0:19:52.70,0:19:53.60,Default,,0,0,0,,蜘蛛侠
-Dialogue: 0,0:20:03.00,0:20:04.00,Foreign,,0,0,0,,待て
-Dialogue: 0,0:20:03.00,0:20:04.00,Default,,0,0,0,,别跑
+Dialogue: 0,0:20:03.00,0:20:04.00,Foreign (Italic),,0,0,0,,待て
+Dialogue: 0,0:20:03.00,0:20:04.00,Default (Italic),,0,0,0,,别跑
 Dialogue: 0,0:20:08.80,0:20:10.10,Foreign,,0,0,0,,不死身の男
 Dialogue: 0,0:20:08.80,0:20:10.10,Default,,0,0,0,,不死之身
 Dialogue: 0,0:20:10.10,0:20:11.30,Foreign,,0,0,0,,スパイダーマン
