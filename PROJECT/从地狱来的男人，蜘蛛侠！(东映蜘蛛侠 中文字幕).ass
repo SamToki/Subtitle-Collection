@@ -16,9 +16,9 @@ Video File: 从地狱来的男人，蜘蛛侠！(东映蜘蛛侠 中文字幕).m
 Video AR Mode: 4
 Video AR Value: 1.372222
 Video Zoom Percent: 0.500000
-Scroll Position: 604
-Active Line: 613
-Video Position: 29012
+Scroll Position: 676
+Active Line: 693
+Video Position: 33636
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -322,10 +322,10 @@ Dialogue: 0,0:06:28.40,0:06:29.90,Foreign,,0,0,0,,山城新子から目を離す
 Dialogue: 0,0:06:28.40,0:06:29.90,Default,,0,0,0,,别让山城新子在眼皮底下溜了
 Dialogue: 0,0:06:29.90,0:06:30.90,Foreign,,0,0,0,,行きなさい
 Dialogue: 0,0:06:29.90,0:06:30.90,Default,,0,0,0,,快去看住她
-Dialogue: 0,0:06:30.90,0:06:33.72,Foreign,,0,0,0,,その前に肩の傷を治療させてくれ
-Dialogue: 0,0:06:30.90,0:06:33.72,Default,,0,0,0,,先帮我治疗一下肩膀上的伤
-Dialogue: 0,0:06:33.72,0:06:34.80,Foreign,,0,0,0,,その必要はない
-Dialogue: 0,0:06:33.72,0:06:34.80,Default,,0,0,0,,没那个必要
+Dialogue: 0,0:06:30.90,0:06:33.60,Foreign,,0,0,0,,その前に肩の傷を治療させてくれ
+Dialogue: 0,0:06:30.90,0:06:33.60,Default,,0,0,0,,先帮我治疗一下肩膀上的伤
+Dialogue: 0,0:06:33.60,0:06:34.80,Foreign,,0,0,0,,その必要はない
+Dialogue: 0,0:06:33.60,0:06:34.80,Default,,0,0,0,,没那个必要
 Dialogue: 0,0:06:35.50,0:06:37.60,Foreign,,0,0,0,,なんて冷たい女だ
 Dialogue: 0,0:06:35.50,0:06:37.60,Default,,0,0,0,,你这女人怎么这么冷漠
 Dialogue: 0,0:06:39.70,0:06:41.60,Foreign,,0,0,0,,今度失敗したら死刑だよ
@@ -739,6 +739,7 @@ Dialogue: 0,0:23:18.00,0:23:21.00,Foreign,,0,0,0,,父の敵  ガリアの復讐�
 Dialogue: 0,0:23:18.00,0:23:21.00,Default,,0,0,0,,我来为老爸与盖里亚报仇了
 Dialogue: 0,0:23:21.00,0:23:21.50,Foreign,,0,0,0,,覚悟ッ
 Dialogue: 0,0:23:21.00,0:23:21.50,Default,,0,0,0,,受死!
+Dialogue: 0,0:23:21.50,0:23:25.95,Top,,0,0,0,,(消防水管箱)
 Dialogue: 0,0:23:30.20,0:23:31.87,Top,,0,0,0,,(甲板)
 Dialogue: 0,0:23:32.30,0:23:33.50,Foreign,,0,0,0,,鉄十字キラー
 Dialogue: 0,0:23:32.30,0:23:33.50,Default,,0,0,0,,铁十字杀手
