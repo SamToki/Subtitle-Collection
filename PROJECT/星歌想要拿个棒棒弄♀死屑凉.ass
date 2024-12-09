@@ -21,10 +21,10 @@ Video Position: 3497
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Seika,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H0016A9D9,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
-Style: Seika (Italic),方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H0016A9D9,&H00000000,0,-1,0,0,100,100,0,0,1,4,2,2,50,50,50,1
-Style: Kikuri,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00765DB7,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
-Style: Ryou,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00A66138,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,50,50,50,1
+Style: Seika,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H0016A9D9,&H00000000,0,0,0,0,100,100,0,0,1,9,0,2,50,50,50,1
+Style: Seika (Italic),方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H0016A9D9,&H00000000,0,-1,0,0,100,100,0,0,1,9,0,2,50,50,50,1
+Style: Kikuri,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00765DB7,&H00000000,0,0,0,0,100,100,0,0,1,9,0,2,50,50,50,1
+Style: Ryou,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00A66138,&H00000000,0,0,0,0,100,100,0,0,1,9,0,2,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

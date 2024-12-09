@@ -20,15 +20,15 @@ Video Position: 345
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,4,0,2,50,50,80,1
-Style: Top,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,50,50,50,1
-Style: 主播与其他,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00604000,&H00000000,0,0,0,0,100,100,0,0,3,4,2,2,50,50,80,1
-Style: 主播与其他 (Italic),方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00604000,&H00000000,0,-1,0,0,100,100,0,0,3,4,2,2,50,50,80,1
-Style: 主播与其他 Soramimi (Small),霞鹜文楷,54,&H00FFFFFF,&H0000FFFF,&H00604000,&H00000000,-1,0,0,0,100,100,0,0,3,4,2,2,50,50,50,1
-Style: 江泽民,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00004000,&H00000000,0,0,0,0,100,100,0,0,3,4,2,2,50,50,80,1
-Style: 江泽民 Phonetic,Sarasa UI J,36,&H00FFFFFF,&H0000FFFF,&H00004000,&H00000000,0,0,0,0,100,100,0,0,3,4,2,2,50,50,50,1
-Style: 江泽民 Soramimi (Small),霞鹜文楷,54,&H00FFFFFF,&H0000FFFF,&H00004000,&H00000000,-1,0,0,0,100,100,0,0,3,4,2,2,50,50,50,1
-Style: 张宝华 (Italic),方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00004040,&H00000000,0,-1,0,0,100,100,0,0,3,4,2,2,50,50,80,1
+Style: Default,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,9,0,2,50,50,80,1
+Style: Top,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,9,0,8,50,50,50,1
+Style: 主播与其他,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00604000,&H00000000,0,0,0,0,100,100,0,0,3,9,0,2,50,50,80,1
+Style: 主播与其他 (Italic),方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00604000,&H00000000,0,-1,0,0,100,100,0,0,3,9,0,2,50,50,80,1
+Style: 主播与其他 Soramimi (Small),霞鹜文楷,54,&H00FFFFFF,&H0000FFFF,&H00604000,&H00000000,-1,0,0,0,100,100,0,0,3,6,0,2,50,50,50,1
+Style: 江泽民,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00004000,&H00000000,0,0,0,0,100,100,0,0,3,9,0,2,50,50,80,1
+Style: 江泽民 Phonetic,Sarasa UI J,36,&H00FFFFFF,&H0000FFFF,&H00004000,&H00000000,0,0,0,0,100,100,0,0,3,4.5,0,2,50,50,50,1
+Style: 江泽民 Soramimi (Small),霞鹜文楷,54,&H00FFFFFF,&H0000FFFF,&H00004000,&H00000000,-1,0,0,0,100,100,0,0,3,6,0,2,50,50,50,1
+Style: 张宝华 (Italic),方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00004040,&H00000000,0,-1,0,0,100,100,0,0,3,9,0,2,50,50,80,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
