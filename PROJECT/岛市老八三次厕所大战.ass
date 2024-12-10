@@ -15,25 +15,22 @@ Audio File: 岛市老八三次厕所大战.mp4
 Video File: 岛市老八三次厕所大战.mp4
 Video AR Mode: 4
 Video AR Value: 0.750000
-Active Line: 21
-Video Position: 825
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,9,0,2,50,50,50,1
-Style: Phonetic,方正FW筑紫黑 简 D,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,9,0,2,50,50,50,1
-Style: Top,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,9,0,8,50,50,50,1
+Style: Default,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,9,0,2,50,50,50,1
+Style: Phonetic,更纱黑体 UI SC,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,9,0,2,50,50,50,1
+Style: Top,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,9,0,8,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.00,Top,,0,0,0,,[第二次厕所大战]
 Dialogue: 0,0:00:01.00,0:00:02.10,Default,,0,0,0,,老铁们啊
-Dialogue: 0,0:00:01.00,0:00:02.10,Phonetic,,0,0,0,,{\pos(808,950)}观众朋友
 Dialogue: 0,0:00:02.10,0:00:05.50,Default,,0,0,0,,呃  虽然不是同一时间  但是同一个厕所
 Dialogue: 0,0:00:05.50,0:00:08.30,Default,,0,0,0,,老八我再次挑战一把吃屎啊
-Dialogue: 0,0:00:05.50,0:00:08.30,Phonetic,,0,0,0,,{\pos(1646,950)}粑粑
+Dialogue: 0,0:00:05.50,0:00:08.30,Phonetic,,0,0,0,,{\pos(1646,952)}粑粑
 Dialogue: 0,0:00:08.30,0:00:10.80,Default,,0,0,0,,奥利给  干了兄弟们!
-Dialogue: 0,0:00:08.30,0:00:10.80,Phonetic,,0,0,0,,{\pos(514,950)}(意义不明)
+Dialogue: 0,0:00:08.30,0:00:10.80,Top,,0,0,0,,※ 奥利给: 自创词汇, 意义不明
 Dialogue: 0,0:00:19.20,0:00:22.20,Top,,0,0,0,,[第三次厕所大战]
 Dialogue: 0,0:00:19.20,0:00:21.10,Default,,0,0,0,,老铁们啊  还是那句话
 Dialogue: 0,0:00:21.10,0:00:24.00,Default,,0,0,0,,只有你们想不到的  就没有我老八做不到的
