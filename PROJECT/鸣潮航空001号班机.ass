@@ -52,7 +52,7 @@ Dialogue: 0,0:01:02.88,0:01:04.58,Captain,,0,0,0,,稳定进近  开始手动驾�
 Dialogue: 0,0:01:04.56,0:01:07.00,Cockpit Foreign,,0,0,0,,(Autopilot Disengaged)
 Dialogue: 0,0:01:04.56,0:01:07.00,Cockpit,,0,0,0,,(自动驾驶断开)
 Dialogue: 0,0:01:05.21,0:01:09.30,ATC Foreign,,0,0,0,,WuWa 1. Wind is calm. Runway 10, cleared to land.
-Dialogue: 0,0:01:05.21,0:01:09.30,ATC,,0,0,0,,鸣潮001  地面无风  10跑道准许降落
+Dialogue: 0,0:01:05.21,0:01:09.30,ATC,,0,0,0,,鸣潮001  地面静风  10跑道可以落地
 Dialogue: 0,0:01:11.00,0:01:11.81,Cockpit Foreign,,0,0,0,,Minimums.
 Dialogue: 0,0:01:11.00,0:01:11.81,Cockpit,,0,0,0,,决断高度
 Dialogue: 0,0:01:11.81,0:01:12.65,Captain Foreign,,0,0,0,,Continue.
