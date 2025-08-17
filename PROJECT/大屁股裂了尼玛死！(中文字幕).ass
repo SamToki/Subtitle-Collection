@@ -15,15 +15,12 @@ Audio File: 大屁股裂了尼玛死！(中文字幕).mp4
 Video File: 大屁股裂了尼玛死！(中文字幕).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 9
-Video Position: 746
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,9,0,2,50,50,50,1
 Style: Foreign,Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,2,50,50,50,1
-Style: Soramimi (Small),霞鹜文楷,54,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,50,50,50,1
+Style: Soramimi (Small),霞鹜文楷 Medium,54,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,2,50,50,50,1
 Style: Top,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,9,0,8,50,50,50,1
 
 [Events]
