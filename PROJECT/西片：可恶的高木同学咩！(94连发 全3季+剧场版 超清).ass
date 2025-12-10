@@ -15,10 +15,6 @@ Audio File: 西片：可恶的高木同学咩！(94连发 全3季+剧场版 超�
 Video File: 西片：可恶的高木同学咩！(94连发 全3季+剧场版 超清).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 102
-Active Line: 116
-Video Position: 2153
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,7 +23,7 @@ Style: Default (Italic),方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000
 Style: Foreign,Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,2,50,50,50,1
 Style: Foreign (Italic),Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,0,2,50,50,50,1
 Style: Top,方正FW筑紫黑 简 M,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,9,0,8,50,50,50,1
-Style: Counter,Sarasa UI J,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,1,50,50,50,1
+Style: Counter,更纱黑体 UI SC,48,&H80FFFFFF,&H0000FFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,1,50,50,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
