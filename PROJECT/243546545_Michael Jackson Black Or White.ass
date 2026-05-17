@@ -15,9 +15,6 @@ Audio File: 243546545_Michael Jackson Black Or White.mp4
 Video File: 243546545_Michael Jackson Black Or White.mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Active Line: 44
-Video Position: 2812
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,9 +109,9 @@ Dialogue: 0,0:04:46.00,0:04:47.60,Default,,0,0,0,,我宁可兼听双方
 Dialogue: 0,0:04:47.60,0:04:49.20,Foreign,,0,0,0,,See, it's not about races.
 Dialogue: 0,0:04:47.60,0:04:49.20,Default,,0,0,0,,不关乎种族
 Dialogue: 0,0:04:49.20,0:04:50.80,Foreign,,0,0,0,,Just places, faces.
-Dialogue: 0,0:04:49.20,0:04:50.80,Default,,0,0,0,,只在乎面孔
-Dialogue: 0,0:04:50.80,0:04:52.80,Foreign,,0,0,0,,Where your blood comes from... this places.
-Dialogue: 0,0:04:50.80,0:04:52.80,Default,,0,0,0,,与你的血缘
+Dialogue: 0,0:04:49.20,0:04:50.80,Default,,0,0,0,,只在乎地域与面孔
+Dialogue: 0,0:04:50.80,0:04:52.80,Foreign,,0,0,0,,Where your blood comes from is where your space is.
+Dialogue: 0,0:04:50.80,0:04:52.80,Default,,0,0,0,,要清楚自己的血缘
 Dialogue: 0,0:04:52.80,0:04:54.00,Foreign,,0,0,0,,I've seen the bright get duller.
 Dialogue: 0,0:04:52.80,0:04:54.00,Default,,0,0,0,,我看到光明正在暗淡
 Dialogue: 0,0:04:54.00,0:04:56.00,Foreign,,0,0,0,,I'm not gonna spend my life being a color.
